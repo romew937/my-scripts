@@ -46,7 +46,7 @@ pcall(II1II1III["connection"]["Disconnect"], II1II1III["connection"])
 		end
 IIlllIIII["Young0xPersistentAntiAfk"] = nil
 	end
-local I11llIIII = { ["Title"] = "Young0x Hub", ["Subtitle"] = "Crack by 2zvh :3", ["BackgroundAsset"] = "rbxassetid://16718471546", ["BackgroundSourceAsset"] = "rbxassetid://16718471629", ["Discord"] = "https://discord.gg/NxZNRGJfQc", ["YouTube"] = "https://www.youtube.com/@Real_Young0x", ["Size"] = { ["DesktopWidth"] = 0x224, ["DesktopHeight"] = 0x168, ["MobileWidthScale"] = .9, ["MobileHeightScale"] = .58, ["MinWidth"] = 0x114, ["MinHeight"] = 0xDC, ["MaxMobileWidth"] = 0x1D6, ["MaxMobileHeight"] = 0x136 }, ["Colors"] = { ["base"] = Color3["fromRGB"](0x7, 0x9, 0xD), ["panel"] = Color3["fromRGB"](0xE, 0x11, 0x17), ["row"] = Color3["fromRGB"](0x1B, 0x1F, 0x27), ["rowHover"] = Color3["fromRGB"](0x28, 0x2E, 0x3A), ["tab"] = Color3["fromRGB"](0x15, 0x19, 0x21), ["tabOn"] = Color3["fromRGB"](0x30, 0x3D, 0x4E), ["cyan"] = Color3["fromRGB"](0x84, 0xCF, 0xFF), ["blue"] = Color3["fromRGB"](0xA5, 0x9B, 0xE4), ["green"] = Color3["fromRGB"](0x7E, 0xE0, 0xAF), ["yellow"] = Color3["fromRGB"](0xEE, 0xCE, 0x6F), ["orange"] = Color3["fromRGB"](0xEC, 0x9F, 0x5D), ["red"] = Color3["fromRGB"](0xFF, 0x37, 0x52), ["white"] = Color3["fromRGB"](0xF6, 0xF8, 0xFC), ["soft"] = Color3["fromRGB"](0xE1, 0xE6, 0xEF), ["dim"] = Color3["fromRGB"](0xA5, 0xAE, 0xBD), ["black"] = Color3["fromRGB"](0, 0, 0) }, ["Tabs"] = { { "Info", 0x3E }, { "Main", 0x3E }, { "Fast Farm", 0x54 }, { "Full Train", 0x5C }, { "Auto Farm", 0x58 }, { "Pet Momentum", 0x6A }, { "Rebirths", 0x4E }, { "Kills", 0x3E }, { "Pet Shop", 0x56 }, { "Inventory", 0x56 }, { "Fuse Machine", 0x64 }, { "Fast Trade", 0x58 }, { "Gifts", 0x3C }, { "Fast Glitch 100%", 0x78 }, { "Teleports", 0x54 }, { "Profiles", 0x4C }, { "Stats", 0x3E }, { "Misc", 0x3C } }, ["Rocks"] = { { ["name"] = "Industrial Jungle Rock", ["label"] = "Industrial Rock", ["durability"] = 25000000 }, { ["name"] = "Ancient Rock", ["durability"] = 10000000 }, { ["name"] = "Muscle King Rock", ["durability"] = 5000000 }, { ["name"] = "Legend Rock", ["durability"] = 1000000 }, { ["name"] = "Eternal Rock", ["durability"] = 750000 }, { ["name"] = "Mythical Rock", ["durability"] = 400000 }, { ["name"] = "Frost Rock", ["durability"] = 150000 }, { ["name"] = "Beach Rock", ["durability"] = 0x1388 }, { ["name"] = "Starter Rock", ["durability"] = 0x64 }, { ["name"] = "Tiny Rock", ["durability"] = 0 } }, ["Machines"] = { { ["section"] = "Industrial Machines", ["label"] = "Industrial Bar Lift", ["object"] = "Industrial Bar Lift", ["fallback"] = CFrame["new"](-5492.7051, 82.9405, 4643.6421) }, { ["section"] = "Industrial Machines", ["label"] = "Industrial Bench", ["object"] = "Industrial Bench", ["fallback"] = CFrame["new"](-5014.7197, 101.4016, 4467.3472) }, { ["section"] = "Industrial Machines", ["label"] = "Industrial Boulder", ["object"] = "Industrial Boulder", ["fallback"] = CFrame["new"](-5456.4297, 85.4802, 5231.5352) }, { ["section"] = "Industrial Machines", ["label"] = "Industrial Squat", ["object"] = "Industrial Squat", ["fallback"] = CFrame["new"](-5422.1152, 76.9691, 5443.0771) }, { ["section"] = "Jungle Gym Machines", ["label"] = "Jungle Bar Lift", ["object"] = "Jungle Bar Lift", ["fallback"] = CFrame["new"](-8652.8672, 29.2667, 2089.2617) }, { ["section"] = "Jungle Gym Machines", ["label"] = "Jungle Bench", ["object"] = "Jungle Bench", ["fallback"] = CFrame["new"](-8174.8818, 47.7279, 1912.9667) }, { ["section"] = "Jungle Gym Machines", ["label"] = "Jungle Boulder", ["object"] = "Jungle Boulder", ["fallback"] = CFrame["new"](-8616.5918, 31.8064, 2677.1548) }, { ["section"] = "Jungle Gym Machines", ["label"] = "Jungle Squat", ["object"] = "Jungle Squat", ["fallback"] = CFrame["new"](-8377.2773, 34.8563, 2863.6965) }, { ["section"] = "Legends Gym Machines", ["label"] = "Legends Lift", ["object"] = "Legends Lift", ["fallback"] = CFrame["new"](4532.2178, 1012.491, -4002.7122) }, { ["section"] = "Legends Gym Machines", ["label"] = "Legends Press", ["object"] = "Legends Press", ["fallback"] = CFrame["new"](4109.9131, 1012.2094, -3802.1533) }, { ["section"] = "Legends Gym Machines", ["label"] = "Legends Pullup", ["object"] = "Legends Pullup", ["fallback"] = CFrame["new"](4510.2075, 999.8143, -3636.7175) }, { ["section"] = "Legends Gym Machines", ["label"] = "Legends Squat", ["object"] = "Legends Squat", ["fallback"] = CFrame["new"](4439.7734, 1008.0662, -4058.4868) }, { ["section"] = "Legends Gym Machines", ["label"] = "Legends Throw", ["object"] = "Legends Throw", ["fallback"] = CFrame["new"](4189.9614, 1004.3785, -3903.0166) }, { ["section"] = "Muscle King Machines", ["label"] = "Muscle King Lift", ["object"] = "Muscle King Lift", ["fallback"] = CFrame["new"](-8772.9707, 39.191, -5663.5625) }, { ["section"] = "Muscle King Machines", ["label"] = "Muscle King Bench", ["object"] = "Muscle King Bench", ["fallback"] = CFrame["new"](-8590.2354, 37.7592, -6044.5952) }, { ["section"] = "Muscle King Machines", ["label"] = "King Boulder", ["object"] = "King Boulder", ["fallback"] = CFrame["new"](-8942.1289, 43.7785, -5691.6362) }, { ["section"] = "Muscle King Machines", ["label"] = "Muscle King Squat", ["object"] = "Muscle King Squat", ["fallback"] = CFrame["new"](-8758.4424, 32.8662, -6043.0693) } }, ["FullTrainAreas"] = { { ["section"] = "Eternal Gym", ["center"] = Vector3["new"](-6768, 0, -1287) }, { ["section"] = "Mythical Gym", ["center"] = Vector3["new"](0x8CF, 0, 0x42F) }, { ["section"] = "Frost Gym", ["center"] = Vector3["new"](-2650, 0, -393) }, { ["section"] = "Beach", ["center"] = Vector3["new"](0x9, 0, 0x64) }, { ["section"] = "Magma Ring", ["center"] = Vector3["new"](0x1130, 0, -8400) }, { ["section"] = "Desert Ring", ["center"] = Vector3["new"](0x384, 0, -7000) }, { ["section"] = "Boxing Ring", ["center"] = Vector3["new"](-1900, 0, -5820) }, { ["section"] = "Tiny Island", ["center"] = Vector3["new"](0x32, 0, 0x77E) } }, ["FullTrainMachines"] = {}, ["Teleports"] = { { "Rip Glitch Pets", Vector3["new"](-499.3, 3.15, -204.61), ["lookAt"] = Vector3["new"](-507.07, 3.15, -204.61), ["utility"] = true }, { "Industrial Gym", Vector3["new"](-5165, 0x39, 0x1351) }, { "Jungle Gym", Vector3["new"](-7894, 0x6, 0x952) }, { "Muscle King", Vector3["new"](-8799, 0x11, -5798) }, { "Legends Gym", Vector3["new"](0x114D, 0x3DF, -3880) }, { "Eternal Gym", Vector3["new"](-6768, 0x7, -1287) }, { "Mythical Gym", Vector3["new"](0x8CF, 0x7, 0x42F) }, { "Frost Gym", Vector3["new"](-2650, 0x7, -393) }, { "Tiny Gym", Vector3["new"](0x32, 0x7, 0x77E) }, { "Beach", Vector3["new"](0x9, 0x7, 0x64) }, { "Secret Area", Vector3["new"](0x79B, 2, 0x182F) }, { "Desert Brawl", Vector3["new"](0x3C0, 0x11, -7398) }, { "Lava Brawl", Vector3["new"](0x1177, 0x77, -8836) } }, ["UniqueAuras"] = { "Muscle King", "Entropic Blast" }, ["UniquePets"] = { "Core Pup", "Volt Talon", "Reactor Beast", "Plasma Ravager", "Titan Reactor", "Apex Overlord", "Neon Guardian", "Cybernetic Showdown Dragon", "Darkstar Hunter", "Muscle Sensei", "Infernal Dragon", "Aether Spirit Bunny", "Magic Butterfly", "Ultra Birdie" }, ["AutoEgg"] = { ["Interval"] = 0x708, ["Names"] = { "ProteinEgg", "Protein Egg" } }, ["FastFarm"] = { ["StrengthPet"] = "Swift Samurai", ["RebirthPet"] = "Tribal Overlord", ["StrengthMachine"] = "Industrial Bench", ["RebirthMachine"] = "Industrial Bar Lift", ["MaxPets"] = 0x9, ["RepsPerCycle"] = 0x30, ["RepDelay"] = .008, ["PingSoft"] = 0xB4, ["PingMedium"] = 0x12C, ["PingHigh"] = 0x258, ["PingCritical"] = 0x2BC, ["PingPause"] = 0x370, ["PingResume"] = 0x1C2, ["PingReducerPause"] = 0x35C, ["PingReducerResume"] = 0x1E0, ["PingSampleInterval"] = .12, ["StrengthPingSoft"] = 0x190, ["StrengthPingMedium"] = 0x230, ["StrengthPingHigh"] = 0x2D0, ["StrengthPingCritical"] = 0x348, ["StrengthMinBatch"] = 0x1A, ["StrengthStartBatch"] = 0x2A, ["StrengthMaxBatch"] = 0x2A, ["StrengthBackoffPing"] = 0x2BC, ["StrengthBackoffInterval"] = .35, ["StrengthRampPing"] = 0x1C2, ["StrengthRampInterval"] = .9, ["StrengthDelay"] = .05, ["SizeInvokeInterval"] = .75, ["SizeReleaseDuration"] = 0x5, ["FramesReleaseDuration"] = 0xA, ["RebirthCooldown"] = 0x6, ["RebirthSafetyMargin"] = .03, ["RebirthRepBatch"] = 3, ["RebirthPetCount"] = 0x8, ["RebirthPingRise"] = 0x64, ["RebirthPingPause"] = 0x1C2, ["RebirthWarmupStrength"] = 50000000000, ["RebirthWarmupWindow"] = 3, ["RebirthCycleDelay"] = .2, ["RebirthRetryDelay"] = .02, ["RebirthRequestWindow"] = .75 }, ["ServerHop"] = { ["Interval"] = 0x5A, ["LoaderUrl"] = "https://raw.githubusercontent.com/Young0xHUB/Young0x-HUB/refs/heads/main/loader.lua", ["ServerApi"] = "https://games.roblox.com/v1/games/%d/servers/Public?sortOrder=Desc&limit=100", ["PreferredPlayers"] = 0x12, ["MinimumPlayers"] = 0xC, ["NoTargetsDelay"] = 0xA, ["RetryDelay"] = 0x5, ["HistoryLimit"] = 0x3C }, ["Kills"] = { ["ProtectedPrivateServerIds"] = {} } };
+local I11llIIII = { ["Title"] = "Young0x Hub", ["Subtitle"] = "Crack by 2zvh :3", ["BackgroundAsset"] = "rbxassetid://16718471546", ["BackgroundSourceAsset"] = "rbxassetid://16718471629", ["Discord"] = "https://discord.gg/NxZNRGJfQc", ["YouTube"] = "https://www.youtube.com/@Real_Young0x", ["Size"] = { ["DesktopWidth"] = 0x224, ["DesktopHeight"] = 0x168, ["MobileWidthScale"] = .9, ["MobileHeightScale"] = .58, ["MinWidth"] = 0x114, ["MinHeight"] = 0xDC, ["MaxMobileWidth"] = 0x1D6, ["MaxMobileHeight"] = 0x136 }, ["Colors"] = { ["base"] = Color3["fromRGB"](0x7, 0x9, 0xD), ["panel"] = Color3["fromRGB"](0xE, 0x11, 0x17), ["row"] = Color3["fromRGB"](0x1B, 0x1F, 0x27), ["rowHover"] = Color3["fromRGB"](0x28, 0x2E, 0x3A), ["tab"] = Color3["fromRGB"](0x15, 0x19, 0x21), ["tabOn"] = Color3["fromRGB"](0x30, 0x3D, 0x4E), ["cyan"] = Color3["fromRGB"](0x84, 0xCF, 0xFF), ["blue"] = Color3["fromRGB"](0xA5, 0x9B, 0xE4), ["green"] = Color3["fromRGB"](0x7E, 0xE0, 0xAF), ["yellow"] = Color3["fromRGB"](0xEE, 0xCE, 0x6F), ["orange"] = Color3["fromRGB"](0xEC, 0x9F, 0x5D), ["red"] = Color3["fromRGB"](0xFF, 0x37, 0x52), ["white"] = Color3["fromRGB"](0xF6, 0xF8, 0xFC), ["soft"] = Color3["fromRGB"](0xE1, 0xE6, 0xEF), ["dim"] = Color3["fromRGB"](0xA5, 0xAE, 0xBD), ["black"] = Color3["fromRGB"](0, 0, 0) }, ["Tabs"] = { { "Info", 0x3E }, { "Main", 0x3E }, { "Fast Farm", 0x54 }, { "Full Train", 0x5C }, { "Auto Farm", 0x58 }, { "Pet Momentum", 0x6A }, { "Rebirths", 0x4E }, { "Kills", 0x3E }, { "Pet Shop", 0x56 }, { "Inventario", 0x56 }, { "Fuse Machine", 0x64 }, { "Fast Trade", 0x58 }, { "Gifts", 0x3C }, { "Fast Glitch 100%", 0x78 }, { "Teleports", 0x54 }, { "Perfiles", 0x4C }, { "Stats", 0x3E }, { "Misc", 0x3C } }, ["Rocks"] = { { ["name"] = "Industrial Jungle Rock", ["label"] = "Industrial Rock", ["durability"] = 25000000 }, { ["name"] = "Ancient Rock", ["durability"] = 10000000 }, { ["name"] = "Muscle King Rock", ["durability"] = 5000000 }, { ["name"] = "Legend Rock", ["durability"] = 1000000 }, { ["name"] = "Eternal Rock", ["durability"] = 750000 }, { ["name"] = "Mythical Rock", ["durability"] = 400000 }, { ["name"] = "Frost Rock", ["durability"] = 150000 }, { ["name"] = "Beach Rock", ["durability"] = 0x1388 }, { ["name"] = "Starter Rock", ["durability"] = 0x64 }, { ["name"] = "Tiny Rock", ["durability"] = 0 } }, ["Machines"] = { { ["section"] = "Industrial Machines", ["label"] = "Industrial Bar Lift", ["object"] = "Industrial Bar Lift", ["fallback"] = CFrame["new"](-5492.7051, 82.9405, 4643.6421) }, { ["section"] = "Industrial Machines", ["label"] = "Industrial Bench", ["object"] = "Industrial Bench", ["fallback"] = CFrame["new"](-5014.7197, 101.4016, 4467.3472) }, { ["section"] = "Industrial Machines", ["label"] = "Industrial Boulder", ["object"] = "Industrial Boulder", ["fallback"] = CFrame["new"](-5456.4297, 85.4802, 5231.5352) }, { ["section"] = "Industrial Machines", ["label"] = "Industrial Squat", ["object"] = "Industrial Squat", ["fallback"] = CFrame["new"](-5422.1152, 76.9691, 5443.0771) }, { ["section"] = "Jungle Gym Machines", ["label"] = "Jungle Bar Lift", ["object"] = "Jungle Bar Lift", ["fallback"] = CFrame["new"](-8652.8672, 29.2667, 2089.2617) }, { ["section"] = "Jungle Gym Machines", ["label"] = "Jungle Bench", ["object"] = "Jungle Bench", ["fallback"] = CFrame["new"](-8174.8818, 47.7279, 1912.9667) }, { ["section"] = "Jungle Gym Machines", ["label"] = "Jungle Boulder", ["object"] = "Jungle Boulder", ["fallback"] = CFrame["new"](-8616.5918, 31.8064, 2677.1548) }, { ["section"] = "Jungle Gym Machines", ["label"] = "Jungle Squat", ["object"] = "Jungle Squat", ["fallback"] = CFrame["new"](-8377.2773, 34.8563, 2863.6965) }, { ["section"] = "Legends Gym Machines", ["label"] = "Legends Lift", ["object"] = "Legends Lift", ["fallback"] = CFrame["new"](4532.2178, 1012.491, -4002.7122) }, { ["section"] = "Legends Gym Machines", ["label"] = "Legends Press", ["object"] = "Legends Press", ["fallback"] = CFrame["new"](4109.9131, 1012.2094, -3802.1533) }, { ["section"] = "Legends Gym Machines", ["label"] = "Legends Pullup", ["object"] = "Legends Pullup", ["fallback"] = CFrame["new"](4510.2075, 999.8143, -3636.7175) }, { ["section"] = "Legends Gym Machines", ["label"] = "Legends Squat", ["object"] = "Legends Squat", ["fallback"] = CFrame["new"](4439.7734, 1008.0662, -4058.4868) }, { ["section"] = "Legends Gym Machines", ["label"] = "Legends Throw", ["object"] = "Legends Throw", ["fallback"] = CFrame["new"](4189.9614, 1004.3785, -3903.0166) }, { ["section"] = "Muscle King Machines", ["label"] = "Muscle King Lift", ["object"] = "Muscle King Lift", ["fallback"] = CFrame["new"](-8772.9707, 39.191, -5663.5625) }, { ["section"] = "Muscle King Machines", ["label"] = "Muscle King Bench", ["object"] = "Muscle King Bench", ["fallback"] = CFrame["new"](-8590.2354, 37.7592, -6044.5952) }, { ["section"] = "Muscle King Machines", ["label"] = "King Boulder", ["object"] = "King Boulder", ["fallback"] = CFrame["new"](-8942.1289, 43.7785, -5691.6362) }, { ["section"] = "Muscle King Machines", ["label"] = "Muscle King Squat", ["object"] = "Muscle King Squat", ["fallback"] = CFrame["new"](-8758.4424, 32.8662, -6043.0693) } }, ["FullTrainAreas"] = { { ["section"] = "Eternal Gym", ["center"] = Vector3["new"](-6768, 0, -1287) }, { ["section"] = "Mythical Gym", ["center"] = Vector3["new"](0x8CF, 0, 0x42F) }, { ["section"] = "Frost Gym", ["center"] = Vector3["new"](-2650, 0, -393) }, { ["section"] = "Playa", ["center"] = Vector3["new"](0x9, 0, 0x64) }, { ["section"] = "Magma Ring", ["center"] = Vector3["new"](0x1130, 0, -8400) }, { ["section"] = "Desert Ring", ["center"] = Vector3["new"](0x384, 0, -7000) }, { ["section"] = "Boxing Ring", ["center"] = Vector3["new"](-1900, 0, -5820) }, { ["section"] = "Tiny Island", ["center"] = Vector3["new"](0x32, 0, 0x77E) } }, ["FullTrainMachines"] = {}, ["Teleports"] = { { "Rip Glitch Pets", Vector3["new"](-499.3, 3.15, -204.61), ["lookAt"] = Vector3["new"](-507.07, 3.15, -204.61), ["utility"] = true }, { "Industrial Gym", Vector3["new"](-5165, 0x39, 0x1351) }, { "Jungle Gym", Vector3["new"](-7894, 0x6, 0x952) }, { "Muscle King", Vector3["new"](-8799, 0x11, -5798) }, { "Legends Gym", Vector3["new"](0x114D, 0x3DF, -3880) }, { "Eternal Gym", Vector3["new"](-6768, 0x7, -1287) }, { "Mythical Gym", Vector3["new"](0x8CF, 0x7, 0x42F) }, { "Frost Gym", Vector3["new"](-2650, 0x7, -393) }, { "Tiny Gym", Vector3["new"](0x32, 0x7, 0x77E) }, { "Beach", Vector3["new"](0x9, 0x7, 0x64) }, { "Secret Area", Vector3["new"](0x79B, 2, 0x182F) }, { "Desert Brawl", Vector3["new"](0x3C0, 0x11, -7398) }, { "Lava Brawl", Vector3["new"](0x1177, 0x77, -8836) } }, ["UniqueAuras"] = { "Muscle King", "Entropic Blast" }, ["UniquePets"] = { "Core Pup", "Volt Talon", "Reactor Beast", "Plasma Ravager", "Titan Reactor", "Apex Overlord", "Neon Guardian", "Cybernetic Showdown Dragon", "Darkstar Hunter", "Muscle Sensei", "Infernal Dragon", "Aether Spirit Bunny", "Magic Butterfly", "Ultra Birdie" }, ["AutoEgg"] = { ["Interval"] = 0x708, ["Names"] = { "ProteinEgg", "Protein Egg" } }, ["FastFarm"] = { ["StrengthPet"] = "Swift Samurai", ["RebirthPet"] = "Tribal Overlord", ["StrengthMachine"] = "Industrial Bench", ["RebirthMachine"] = "Industrial Bar Lift", ["MaxPets"] = 0x9, ["RepsPerCycle"] = 0x30, ["RepDelay"] = .008, ["PingSoft"] = 0xB4, ["PingMedium"] = 0x12C, ["PingHigh"] = 0x258, ["PingCritical"] = 0x2BC, ["PingPause"] = 0x370, ["PingResume"] = 0x1C2, ["PingReducerPause"] = 0x35C, ["PingReducerResume"] = 0x1E0, ["PingSampleInterval"] = .12, ["StrengthPingSoft"] = 0x190, ["StrengthPingMedium"] = 0x230, ["StrengthPingHigh"] = 0x2D0, ["StrengthPingCritical"] = 0x348, ["StrengthMinBatch"] = 0x1A, ["StrengthStartBatch"] = 0x2A, ["StrengthMaxBatch"] = 0x2A, ["StrengthBackoffPing"] = 0x2BC, ["StrengthBackoffInterval"] = .35, ["StrengthRampPing"] = 0x1C2, ["StrengthRampInterval"] = .9, ["StrengthDelay"] = .05, ["SizeInvokeInterval"] = .75, ["SizeReleaseDuration"] = 0x5, ["FramesReleaseDuration"] = 0xA, ["RebirthCooldown"] = 0x6, ["RebirthSafetyMargin"] = .03, ["RebirthRepBatch"] = 3, ["RebirthPetCount"] = 0x8, ["RebirthPingRise"] = 0x64, ["RebirthPingPause"] = 0x1C2, ["RebirthWarmupStrength"] = 50000000000, ["RebirthWarmupWindow"] = 3, ["RebirthCycleDelay"] = .2, ["RebirthRetryDelay"] = .02, ["RebirthRequestWindow"] = .75 }, ["ServerHop"] = { ["Interval"] = 0x5A, ["LoaderUrl"] = "https://raw.githubusercontent.com/Young0xHUB/Young0x-HUB/refs/heads/main/loader.lua", ["ServerApi"] = "https://games.roblox.com/v1/games/%d/servers/Public?sortOrder=Desc&limit=100", ["PreferredPlayers"] = 0x12, ["MinimumPlayers"] = 0xC, ["NoTargetsDelay"] = 0xA, ["RetryDelay"] = 0x5, ["HistoryLimit"] = 0x3C }, ["Kills"] = { ["ProtectedPrivateServerIds"] = {} } };
 local lI1llIIII = I11llIIII["Colors"]
 local II1llIIII = Enum["Font"]["FredokaOne"]
 lI1llIIII["fontBold"] = Enum["Font"]["FredokaOne"]
@@ -965,7 +965,7 @@ for llIII1III, IlIII1III in ipairs(lIlllIIII:GetDescendants()) do
 if IlIII1III:IsA("TextLabel") or IlIII1III:IsA("TextButton") then
 local llIII1III = tostring(IlIII1III["Text"] or "");
 local l1III1III = llIII1III:lower();
-local I1III1III = (l1III1III:find("fuerza", 1, true) or l1III1III:find("strength", 1, true)) and (l1III1III:find("x2", 1, true) or l1III1III:find("2x", 1, true))
+local I1III1III = (l1III1III:find("strength", 1, true) or l1III1III:find("strength", 1, true)) and (l1III1III:find("x2", 1, true) or l1III1III:find("2x", 1, true))
 if I1III1III then
 local llIII1III = IlIII1III["Parent"]
 for IlIII1III = 1, 0x4, 1 do
@@ -1144,7 +1144,7 @@ local lI1l1IIII = setmetatable({}, { ["__mode"] = "k" });
 local II1l1IIII = {};
 local llIl1IIII = setmetatable({}, { ["__mode"] = "k" });
 local IlIl1IIII = {};
-local l1Il1IIII = { ["strengthframe"] = true, ["durabilityframe"] = true, ["agilityframe"] = true, ["fuerzaframe"] = true };
+local l1Il1IIII = { ["strengthframe"] = true, ["durabilityframe"] = true, ["agilityframe"] = true, ["strengthframe"] = true };
 local function I1Il1IIII(II1II1III)
 for II1II1III, llIII1III in pairs(II1II1III) do
 if llIII1III["visibleConnection"] then
@@ -1996,7 +1996,7 @@ return II1II1III:GetFullName() < llIII1III:GetFullName()
 local lllllIIII = math["min"](lll1lIIII:GetPetSlotCapacity(), #IIIII1III);
 lll1lIIII["requiredPackCount"] = math["max"](1, lllllIIII)
 if lllllIIII < 1 then
-lll1lIIII["lastError"] = "No se encontr\243 el pack " .. tostring(II1II1III)
+lll1lIIII["lastError"] = "Pack not found: " .. tostring(II1II1III)
 return 0
 			end
 for II1II1III = 1, lllllIIII, 1 do
@@ -2022,7 +2022,7 @@ return llIII1III
 				end
 task["wait"](.04)
 			until time() >= l1lllIIII
-lll1lIIII["lastError"] = "No se confirm\243 el equipamiento de " .. tostring(II1II1III)
+lll1lIIII["lastError"] = "Equipment not confirmed for " .. tostring(II1II1III)
 return 0
 		end
 local function lllllIIII(II1II1III)
@@ -2071,7 +2071,7 @@ return II1II1III:GetFullName() < llIII1III:GetFullName()
 local IIlllIIII = II1II1III == I11llIIII["FastFarm"]["RebirthPet"] and I11llIIII["FastFarm"]["RebirthPetCount"] or math["min"](lll1lIIII:GetPetSlotCapacity(), #IllllIIII);
 lll1lIIII["requiredPackCount"] = math["max"](1, IIlllIIII)
 if IIlllIIII < 1 or #IllllIIII < IIlllIIII or lll1lIIII:GetPetSlotCapacity() < IIlllIIII then
-lll1lIIII["lastError"] = "No se encontr\243 el pack " .. tostring(II1II1III)
+lll1lIIII["lastError"] = "Pack not found: " .. tostring(II1II1III)
 return 0
 			end
 local ll1llIIII = {}
@@ -2152,7 +2152,7 @@ return l1III1III
 				end
 IlIII1III["Heartbeat"]:Wait()
 			until time() >= IlIllIIII
-lll1lIIII["lastError"] = "No se confirm\243 el equipamiento de " .. tostring(II1II1III)
+lll1lIIII["lastError"] = "Equipment not confirmed for " .. tostring(II1II1III)
 return 0
 		end
 lll1lIIII["UnequipAllPets"] = lIIII1III
@@ -2747,7 +2747,7 @@ llIII1III["lastError"] = "Montaje pendiente: " .. tostring(IIIII1III)
 return false
 				end
 			end
-llIII1III["lastError"] = "No hay m\225quina industrial disponible con los requisitos actuales"
+llIII1III["lastError"] = "No industrial machine is available with the current requirements"
 return false
 		end
 function lll1lIIII.HasRebirthMachine(II1II1III)
@@ -2833,7 +2833,7 @@ llIII1III["currentCycle"] = nil
 function lll1lIIII.RunRebirthCycle(l1III1III, llIII1III)
 local I1III1III = (l1III1III:GetRebirthNetwork())["pending"]
 if I1III1III and (not I1III1III["done"] or I1III1III["accepted"] and II1II1III({ "Rebirths", "Rebirth" }) <= I1III1III["oldRebirths"]) then
-l1III1III["phase"], l1III1III["lastError"] = "pending", "Esperando el rebirth anterior; no se duplican solicitudes"
+l1III1III["phase"], l1III1III["lastError"] = "pending", "Waiting for the previous rebirth; requests are not duplicated"
 return false
 			end
 local lIIII1III = ll11lIIII();
@@ -2888,7 +2888,7 @@ IIlllIIII["required"] = IlIllIIII
 local l1IllIIII = math["max"](IlIllIIII, I11llIIII["FastFarm"]["RebirthWarmupStrength"])
 while II1llIIII() and l11llIIII() < l1IllIIII do
 if not l1III1III:PackStillConfirmed(I11llIIII["FastFarm"]["StrengthPet"]) then
-l1III1III["lastError"] = "Cambi\243 el pack de fuerza"
+l1III1III["lastError"] = "Cambi\243 el pack de strength"
 return false
 				end
 if not l1III1III:HasRebirthMachine() then
@@ -3060,7 +3060,7 @@ if llIII1III["mode"] == II1II1III then
 return true
 			end
 if II1II1III == "rebirth" and (llIllIIII["rebirth"]["autoTarget"] or llIllIIII["rebirth"]["infinite"] or llIllIIII["rebirth"]["fastWeight"] or llIllIIII["rebirth"]["autoLift"] or llIllIIII["autoWeight"] or I1lllIIII:GetAttribute("AutoLiftEnabled") == true) then
-llIII1III["lastError"] = "Apag\225 los otros autos de entrenamiento y rebirth antes de Fast Rebirth"
+llIII1III["lastError"] = "Turn off the other auto training and rebirth features before Fast Rebirth"
 return false
 			end
 local I1III1III = llIII1III:CountOwnedPet(I11llIIII["FastFarm"]["StrengthPet"]);
@@ -3350,7 +3350,7 @@ return IIIII1III and (IIIII1III:IsA("ModuleScript") and require(IIIII1III))
 				end)
 if not lllllIIII or type(IllllIIII) ~= "table" or not l1lllIIII or type(I1lllIIII) ~= "table" then
 II1II1III["available"] = false
-II1II1III["lastError"] = "Pet Momentum no est\225 disponible en esta versi\243n"
+II1II1III["lastError"] = "Pet Momentum is not available in this version"
 return false
 			end
 II1II1III["attribute"] = type(IllllIIII["ATTRIBUTE"]) == "string" and IllllIIII["ATTRIBUTE"] or "MomentumSeconds"
@@ -3371,7 +3371,7 @@ II1II1III["targetSeconds"] = II1II1III["maxSeconds"]
 II1II1III["targetMultiplier"] = II1II1III["tiers"][#II1II1III["tiers"]]["multiplier"]
 II1II1III["lastError"] = nil
 			else
-II1II1III["lastError"] = "No se encontraron tiers reales"
+II1II1III["lastError"] = "No real tiers found"
 			end
 return II1II1III["available"]
 		end
@@ -3558,7 +3558,7 @@ return IlIII1III
 		end
 function IlIII1III.Complete(II1II1III)
 II1II1III:Stop(true);
-Illl1IIII("Pet Momentum completado: multiplicador m\225ximo x" .. tostring(II1II1III["targetMultiplier"]), 5)
+Illl1IIII("Pet Momentum completed: maximum multiplier x" .. tostring(II1II1III["targetMultiplier"]), 5)
 		end
 function IlIII1III.Start(II1II1III)
 if not II1II1III["available"] and not II1II1III:RefreshRealData() then
@@ -3569,17 +3569,17 @@ return true
 			end
 local llIII1III = II1II1III:GetProgress()
 if llIII1III["count"] < 1 then
-II1II1III["lastError"] = "Equip\225 al menos una pet."
+II1II1III["lastError"] = "Equip at least one pet."
 return false
 			end
 local IlIII1III = II1II1III:FindBestTreadmill()
 if not IlIII1III then
-II1II1III["lastError"] = "No hay una cinta accesible"
+II1II1III["lastError"] = "No accessible treadmill"
 return false
 			end
 local l1III1III = l111lIIII()
 if not l1III1III then
-II1II1III["lastError"] = "Personaje no disponible"
+II1II1III["lastError"] = "Character unavailable"
 return false
 			end
 II1II1III["generation"] = II1II1III["generation"] + 1
@@ -3610,7 +3610,7 @@ l1III1III[II1II1III["treadmill"]["model"]] = true
 						end
 local I1III1III = II1II1III:FindBestTreadmill(l1III1III)
 if not I1III1III then
-II1II1III["lastError"] = "Todas las cintas accesibles est\225n ocupadas";
+II1II1III["lastError"] = "All accessible treadmills are occupied";
 Illl1IIII(II1II1III["lastError"]);
 II1II1III:Stop(true)
 break
@@ -3635,7 +3635,7 @@ II1II1III["lastError"] = nil
 					end
 local lllllIIII = II1II1III:GetProgress()
 if lllllIIII["count"] == 0 then
-II1II1III["lastError"] = "Equip\225 al menos una pet.";
+II1II1III["lastError"] = "Equip at least one pet.";
 II1II1III:Stop(true)
 break
 					end
@@ -4313,7 +4313,7 @@ return llIllIIII["autoClaimChests"]
 local IlIII1III = llIllIIII["readyChestDefinitions"]()
 if #IlIII1III == 0 then
 llIllIIII["autoClaimChests"] = false
-lI1I1IIII("No hay cofres disponibles.")
+lI1I1IIII("No chests available.")
 return false
 		end
 local l1III1III = llIII1III:FindFirstChild("rEvents");
@@ -4330,7 +4330,7 @@ llIllIIII["autoClaimChests"] = false
 llIllIIII["chestClaimBusy"] = false
 llIllIIII["syncAvailabilityToggle"](llIllIIII["autoClaimToggle"], false)
 if llIllIIII["chestLastError"] then
-lI1I1IIII("No se pudieron reclamar los cofres.")
+lI1I1IIII("Could not claim the chests.")
 			else
 lI1I1IIII("Cofres reclamados: " .. (tostring(llIllIIII["chestLastBatchClaims"] or 0) .. ("/" .. (tostring(#IlIII1III) .. "."))))
 			end
@@ -5272,20 +5272,20 @@ return l1ll1IIII(II1II1III, llIII1III, { ["tab"] = "Kills", ["autoKill"] = llIll
 local function lIll1IIII()
 local II1II1III = I1IIlIIII()
 if not II1II1III then
-return false, "Tu executor no permite mantener el script al cambiar."
+return false, "Your executor does not allow the script to persist when switching."
 			end
 local llIII1III = Illl1IIII(false) or Illl1IIII(true)
 if not llIII1III then
-return false, "No encontr\233 otro servidor disponible."
+return false, "No other available server found."
 			end
 if not I1ll1IIII(II1II1III, llIII1III) then
-return false, "No se pudo preparar la reconexi\243n."
+return false, "Could not prepare reconnection."
 			end
 local IlIII1III = pcall(function()
 (game:GetService("TeleportService")):TeleportToPlaceInstance(game["PlaceId"], llIII1III, I1lllIIII)
 				end)
 if not IlIII1III then
-return false, "No se pudo iniciar el cambio de servidor."
+return false, "Could not start server switching."
 			end
 return true
 		end
@@ -5320,7 +5320,7 @@ if not I1III1III and llIllIIII["kill"]["hopNow"] then
 I1III1III = "Sin objetivos. Buscando otro servidor..."
 								end
 if not I1III1III and #II1II1III:GetPlayers() < 0xA then
-I1III1III = "Servidor con pocos jugadores..."
+I1III1III = "Server with few players..."
 								end
 if not I1III1III and (II1IlIIII() and os["clock"]() - llIllIIII["kill"]["lastKillAt"] >= 0x12) then
 I1III1III = "Sin kills. Buscando otro servidor..."
@@ -6573,7 +6573,7 @@ local IlIII1III = I1lllllll1(II1II1III, "Estado", llIII1III, lI1llIIII["green"])
 return IlIII1III
 	end
 llIllIIII["registerProfileControl"] = function(II1II1III, llIII1III, IlIII1III, l1III1III)
-if not II1II1III or II1II1III["Name"] == "Profiles" or type(l1III1III) ~= "table" then
+if not II1II1III or II1II1III["Name"] == "Perfiles" or type(l1III1III) ~= "table" then
 return
 			end
 local I1III1III = tostring(II1II1III["Name"]) .. ("|" .. tostring(llIII1III));
@@ -7561,13 +7561,13 @@ local function I1I1lIIII(II1II1III, llIII1III)
 local IlIII1III = ((tostring(llIII1III or "")):gsub("[%.%s]", "")):gsub(",", ".");
 local l1III1III = tonumber(IlIII1III)
 if not l1III1III then
-Illl1IIII("Ingres\225 un n\250mero v\225lido para " .. II1II1III["key"])
+Illl1IIII("Enter a valid number for " .. II1II1III["key"])
 return false
 			end
 l1III1III = math["max"](0, math["floor"](l1III1III + .5));
 local I1III1III = lI11lIIII(I1lllIIII, II1II1III["names"])
 if not I1III1III then
-Illl1IIII(II1II1III["key"] .. " no est\225 disponible en el leaderboard")
+Illl1IIII(II1II1III["key"] .. " is not available on the leaderboard")
 return false
 			end
 local lIIII1III = lIIllIIII[II1II1III["key"]]
@@ -7673,14 +7673,14 @@ local l1lIlIIII
 llIllIIII["redeemProgressText"] = function(II1II1III, llIII1III)
 return string["format"]("Canjeando %d/%d", math["max"](0, tonumber(II1II1III) or 0), math["max"](0, tonumber(llIII1III) or 0))
 			end
-l1lIlIIII = IIlllllll1(II1II1III, "Canjear todos los c\243digos", function(II1II1III)
+l1lIlIIII = IIlllllll1(II1II1III, "Redeem All Codes", function(II1II1III)
 if llIllIIII["redeemingAllCodes"] then
 return
 				end
 local IlIII1III = llIII1III:FindFirstChild("rEvents");
 local l1III1III = IlIII1III and IlIII1III:FindFirstChild("codeRemote")
 if not l1III1III or not l1III1III:IsA("RemoteFunction") then
-Illl1IIII("El canje de c\243digos no est\225 disponible")
+Illl1IIII("Code redemption is not available")
 return
 				end
 llIllIIII["redeemingAllCodes"] = true
@@ -7711,11 +7711,11 @@ task["wait"](.65)
 llIllIIII["redeemingAllCodes"] = false
 II1II1III["Text"] = "Done"
 if I1III1III then
-Illl1IIII("No se pudieron canjear algunos c\243digos.")
+Illl1IIII("Some codes could not be redeemed.")
 					end
 task["delay"](1.5, function()
 if II1II1III["Parent"] and not llIllIIII["redeemingAllCodes"] then
-II1II1III["Text"] = "Canjear todos los c\243digos"
+II1II1III["Text"] = "Redeem All Codes"
 						end
 					end)
 				end)
@@ -7770,7 +7770,7 @@ local lIIII1III = Instance["new"]("TextLabel");
 lIIII1III["Size"] = UDim2["new"](1, -32, 1, -8);
 lIIII1III["Position"] = UDim2["fromOffset"](0x15, 0x4);
 lIIII1III["BackgroundTransparency"] = 1
-lIIII1III["Text"] = "Fue lindo mientras dur\243, Rip pets bug 2019 - 2026 🥀.";
+lIIII1III["Text"] = "It was nice while it lasted, RIP pets bug 2019 - 2026 🥀.";
 lIIII1III["TextColor3"] = Color3["fromRGB"](0xE1, 0xD7, 0xDC);
 lIIII1III["Font"] = lI1llIIII["fontBold"]
 lIIII1III["TextSize"] = 0xC
@@ -7856,7 +7856,7 @@ lll1lIIII["RepToggles"] = IlIII1III
 ll1llllll1(II1II1III, "🥚 Auto Egg (30mins) 🥚", function(II1II1III)
 llIllIIII["setAutoEgg"](II1II1III)
 		end);
-lll1lIIII["HideFramesToggle"] = ll1llllll1(II1II1III, "🙈 Ocultar Frames 🙈", function(II1II1III)
+lll1lIIII["HideFramesToggle"] = ll1llllll1(II1II1III, "🙈 Hide Frames 🙈", function(II1II1III)
 I1l11IIII(II1II1III)
 			end);
 local I1III1III = {};
@@ -7948,7 +7948,7 @@ lll1lIIII["sessionStartedAt"] = l1III1III
 				end
 local I1III1III = lll1lIIII:Start(IlIII1III)
 if not I1III1III then
-Illl1IIII(lll1lIIII["lastError"] or "No se pudo iniciar Fast Farm")
+Illl1IIII(lll1lIIII["lastError"] or "Could not start Fast Farm")
 				end
 return I1III1III
 			end
@@ -7964,7 +7964,7 @@ IlIII1III["Button"]["Size"] = UDim2["new"](1, 0, 0, 0x1E);
 lll1lIIII["RebirthToggle"] = IlIII1III
 Ill1lIIII(IlIII1III["Button"]["Activated"]:Connect(function()
 if IlIII1III:IsLocked() then
-Illl1IIII("Fast Rebirth requiere pack de fuerza, ocho Tribal Overlord y ocho slots disponibles")
+Illl1IIII("Fast Rebirth requiere pack de strength, ocho Tribal Overlord y ocho slots disponibles")
 				end
 			end))
 l1III1III = ll1llllll1(II1II1III, "Fast Strength", function(II1II1III)
@@ -8207,11 +8207,11 @@ local llIII1III = lll1lIIII["PetMomentum"]
 II1II1III:SetAttribute("TightCanvas", true);
 Illllllll1(II1II1III, "Pet Momentum");
 local IlIII1III
-IlIII1III = ll1llllll1(II1II1III, "Farmear Pet Momentum", function(II1II1III)
+IlIII1III = ll1llllll1(II1II1III, "Farm Pet Momentum", function(II1II1III)
 if II1II1III then
 local II1II1III = llIII1III:Start()
 if II1II1III == false then
-Illl1IIII(llIII1III["lastError"] or "No se pudo iniciar Pet Momentum")
+Illl1IIII(llIII1III["lastError"] or "Could not start Pet Momentum")
 						end
 return II1II1III
 					end
@@ -8650,7 +8650,7 @@ II1II1III:Destroy()
 						end
 					end)
 				else
-II1II1III["Text"] = "No se pudo canjear";
+II1II1III["Text"] = "Could not redeem";
 II1II1III["TextColor3"] = lI1llIIII["red"]
 task["delay"](1, function()
 if II1II1III and II1II1III["Parent"] then
@@ -8785,7 +8785,7 @@ ll1llllll1(I1III1III, "Egg cada 30 minutos", function(II1II1III)
 llIllIIII["setAutoEgg"](II1II1III, "rebirth")
 return true
 			end)
-I1IllIIII = l11llllll1(I1III1III, "Objetivo de renacimientos", "Ejemplo: 18,980", function(II1II1III)
+I1IllIIII = l11llllll1(I1III1III, "Rebirth Target", "Ejemplo: 18,980", function(II1II1III)
 local llIII1III = lIlllIIII(II1II1III)
 if llIII1III and llIII1III > 0 then
 llIllIIII["rebirth"]["target"] = llIII1III
@@ -9079,7 +9079,7 @@ while llIllIIII["running"] and (llIllIIII["rebirth"]["ultimateRunning"] and l1II
 local II1II1III = llIII1III:FindFirstChild("rEvents");
 local IIIII1III = II1II1III and II1II1III:FindFirstChild("ultimatesRemote")
 if not IIIII1III then
-lIIII1III = "Remote de Ultimates no disponible"
+lIIII1III = "Ultimate remote unavailable"
 break
 						end
 local lllllIIII = ll1llIIII(IlIII1III);
@@ -9091,7 +9091,7 @@ break
 IIlllIIII("Comprando " .. (IlIII1III["name"] .. (" (" .. (l1III1III + 1  .. ("/" .. (I1III1III .. ")"))))));
 local l1lllIIII, I1lllIIII = pcall(IIIII1III["InvokeServer"], IIIII1III, "upgradeUltimate", IlIII1III["name"])
 if not l1lllIIII or I1lllIIII ~= true then
-IIlllIIII("Esperando renacimientos suficientes...");
+IIlllIIII("Waiting for enough rebirths...");
 task["wait"](.8)
 						else
 local II1II1III = IlI1lIIII() + 0x8
@@ -9106,7 +9106,7 @@ task["wait"](.15)
 if llIII1III then
 l1III1III = l1III1III + 1
 							else
-IIlllIIII("Esperando renacimientos suficientes...");
+IIlllIIII("Waiting for enough rebirths...");
 task["wait"](.8)
 							end
 						end
@@ -9187,7 +9187,7 @@ return llIllIIII["setServerHop"](II1II1III)
 ll1llIIII = ll1llllll1(II1II1III, "Auto Win Brawl", function(II1II1III)
 return llIllIIII["setAutoWinBrawl"](II1II1III)
 				end)
-lIlllIIII = ll1llllll1(II1II1III, "No matar a mis amigos", function(II1II1III)
+lIlllIIII = ll1llllll1(II1II1III, "Don't kill my friends", function(II1II1III)
 return llIllIIII["setProtectFriends"](II1II1III)
 				end);
 llIllIIII["kill"]["updateHopStatus"] = function()
@@ -9205,10 +9205,10 @@ l11llIIII(IllllIIII)
 					end
 return llIllIIII["setKarmaKill"]("good", II1II1III)
 				end);
-local I11llIIII = Il1llllll1(II1II1III, "Seleccionar jugador", II1llllll1(), function(II1II1III)
+local I11llIIII = Il1llllll1(II1II1III, "Select Player", II1llllll1(), function(II1II1III)
 llIllIIII["kill"]["target"] = type(II1II1III) == "table" and II1II1III["name"] or II1II1III
 				end, Il1llIIII)
-l1lllIIII = ll1llllll1(II1II1III, "Matar jugador", function(II1II1III)
+l1lllIIII = ll1llllll1(II1II1III, "Kill Player", function(II1II1III)
 if II1II1III then
 l11llIIII(l1lllIIII)
 if IIlllIIII and IIlllIIII:Get() then
@@ -9514,19 +9514,19 @@ I111lIIII(II1II1III)
 				end
 			end
 local llI1lIIII = false
-local IlI1lIIII = Il1llllll1(I1III1III, "Seleccionar jugador", II1llllll1(), function(II1II1III)
+local IlI1lIIII = Il1llllll1(I1III1III, "Select Player", II1llllll1(), function(II1II1III)
 local llIII1III = type(II1II1III) == "table" and II1II1III["name"] or II1II1III
 if not llI1lIIII and (llIllIIII["trade"]["busy"] and (llIllIIII["trade"]["activePlayer"] and llIII1III ~= llIllIIII["trade"]["activePlayer"])) then
-lI11lIIII("Cancelado: cambi\243 el jugador")
+lI11lIIII("Cancelled: player changed")
 					end
 				end, lIIII1III);
-local l1I1lIIII = Il1llllll1(I1III1III, "Seleccionar pet", IllllIIII(), function(II1II1III)
+local l1I1lIIII = Il1llllll1(I1III1III, "Select Pet", IllllIIII(), function(II1II1III)
 local llIII1III = type(II1II1III) == "table" and II1II1III["name"] or II1II1III
 if not llI1lIIII and (llIllIIII["trade"]["busy"] and (llIllIIII["trade"]["activePet"] and llIII1III ~= llIllIIII["trade"]["activePet"])) then
-lI11lIIII("Cancelado: cambi\243 la pet")
+lI11lIIII("Cancelled: pet changed")
 					end
 				end, lIIII1III);
-local I1I1lIIII = Il1llllll1(I1III1III, "Pets por trade", { 0x6, 0x5, 0x4, 3, 2, 1 }, function(II1II1III)
+local I1I1lIIII = Il1llllll1(I1III1III, "Pets per trade", { 0x6, 0x5, 0x4, 3, 2, 1 }, function(II1II1III)
 Il11lIIII = math["clamp"](math["floor"](tonumber(II1II1III) or 0x6), 1, 0x6)
 				end, lIIII1III);
 local function lII1lIIII(II1II1III)
@@ -9571,19 +9571,19 @@ local I1III1III = IlIII1III and II1II1III:FindFirstChild(IlIII1III);
 local lIIII1III = lll1lIIII();
 local IllllIIII = math["clamp"](math["floor"](tonumber(I1I1lIIII:Get()) or Il11lIIII), 1, 0x6)
 if not I1III1III or I1III1III == I1lllIIII then
-I111lIIII("Seleccion\225 un jugador v\225lido")
+I111lIIII("Select a valid player")
 return
 					end
 if not l1III1III then
-I111lIIII("Seleccion\225 una pet")
+I111lIIII("Select a pet")
 return
 					end
 if not lIIII1III then
-I111lIIII("El remote de trade no est\225 disponible")
+I111lIIII("Trade remote is not available")
 return
 					end
 if IIlllIIII(l1III1III) < 1 then
-I111lIIII("No ten\233s esa pet disponible")
+I111lIIII("You don't have that pet available")
 return
 					end
 llIllIIII["trade"]["requestGeneration"] = llIllIIII["trade"]["requestGeneration"] + 1
@@ -9599,12 +9599,12 @@ lIl1lIIII("fastTrade", function()
 while llIllIIII["running"] and (llIllIIII["trade"]["busy"] and llIllIIII["trade"]["requestGeneration"] == lIlllIIII) do
 repeat
 if not I1III1III["Parent"] then
-lI11lIIII("El jugador sali\243 del servidor")
+lI11lIIII("The player left the server")
 return
 								end
 local II1II1III = l1lllIIII(l1III1III, IllllIIII)
 if #II1II1III == 0 then
-I111lIIII("Fast Trade activo \183 esperando pets");
+I111lIIII("Fast Trade active \183 waiting for pets");
 task["wait"](.5)
 break
 								end
@@ -9612,7 +9612,7 @@ local llIII1III = #II1II1III
 local IlIII1III = IIlllIIII(l1III1III);
 local I1lllIIII = III1lIIII(lIIII1III, I1III1III, lIlllIIII)
 if not I1lllIIII then
-lI11lIIII("No se pudo abrir el trade")
+lI11lIIII("Could not open the trade")
 return
 								end
 I111lIIII("Seleccionando lote de " .. (llIII1III .. " pets..."));
@@ -9630,11 +9630,11 @@ task["wait"](.12)
 									end
 								end
 if ll1llIIII == 0 then
-lI11lIIII("No se pudo ofrecer ninguna pet")
+lI11lIIII("Could not offer any pet")
 return
 								end
 llIII1III = ll1llIIII
-I111lIIII("Esperando que la otra cuenta acepte...");
+I111lIIII("Waiting for the other account to accept...");
 local Il1llIIII = false
 local l11llIIII = time() + 0x78
 while llIllIIII["running"] and (llIllIIII["trade"]["busy"] and (llIllIIII["trade"]["requestGeneration"] == lIlllIIII and (I1III1III["Parent"] and (not Il1llIIII and time() < l11llIIII)))) do
@@ -9649,7 +9649,7 @@ if not llIllIIII["trade"]["busy"] or llIllIIII["trade"]["requestGeneration"] ~= 
 return
 								end
 if not I1III1III["Parent"] then
-lI11lIIII("El jugador sali\243 del servidor")
+lI11lIIII("The player left the server")
 return
 								end
 if not Il1llIIII then
@@ -9659,7 +9659,7 @@ task["wait"](.8)
 I111lIIII("Aceptando y verificando entrega...");
 local II1II1III = IIl1lIIII(lIIII1III, "acceptTrade")
 if not II1II1III then
-I111lIIII("No se pudo aceptar; reintentando...");
+I111lIIII("Could not accept; retrying...");
 task["wait"](.8)
 									else
 local II1II1III = time() + 0x1E
@@ -9673,9 +9673,9 @@ task["wait"](.2)
 										end
 if I1III1III > 0 then
 llIllIIII["trade"]["delivered"] = llIllIIII["trade"]["delivered"] + I1III1III
-I111lIIII("Fast Trade activo \183 " .. (II11lIIII(llIllIIII["trade"]["delivered"]) .. " pets entregadas"), llIllIIII["trade"]["delivered"], IllllIIII)
+I111lIIII("Fast Trade activo \183 " .. (II11lIIII(llIllIIII["trade"]["delivered"]) .. " pets delivered"), llIllIIII["trade"]["delivered"], IllllIIII)
 										else
-I111lIIII("No se confirm\243 la entrega; reintentando...")
+I111lIIII("Delivery not confirmed; retrying...")
 										end
 while llIllIIII["running"] and (llIllIIII["trade"]["busy"] and (llIllIIII["trade"]["requestGeneration"] == lIlllIIII and II1llIIII())) do
 task["wait"](.05)
@@ -9743,7 +9743,7 @@ Illllllll1(IlIII1III, "Regalos");
 local l1III1III = I1lllllll1(IlIII1III, "Eggs", "0", lI1llIIII["cyan"]);
 local I1III1III = I1lllllll1(IlIII1III, "Tropical Shakes", "0", lI1llIIII["cyan"]);
 Illllllll1(IlIII1III, "Enviar Regalos");
-local lIIII1III = Il1llllll1(IlIII1III, "Jugador", II1llllll1(), function()
+local lIIII1III = Il1llllll1(IlIII1III, "Player", II1llllll1(), function()
 
 				end);
 llIllIIII["giftTargetSelector"] = lIIII1III
@@ -9800,7 +9800,7 @@ local IlIllIIII = llIII1III:FindFirstChild("rEvents");
 local I1IllIIII = IlIllIIII and IlIllIIII:FindFirstChild("giftRemote");
 local lIIllIIII = l1lllIIII .. (" Enviar " .. (lllllIIII .. (" " .. (IIIII1III .. ((lllllIIII == 1 and "" or "s") .. (" " .. l1lllIIII))))))
 if not lI1llIIII or lI1llIIII == I1lllIIII or not II1llIIII or not I1IllIIII then
-IllllIIII["Text"] = "Seleccion\225 un jugador";
+IllllIIII["Text"] = "Select a player";
 task["delay"](.9, function()
 if IllllIIII and IllllIIII["Parent"] then
 IllllIIII["Text"] = lIIllIIII
@@ -9829,7 +9829,7 @@ lll1lIIII[#lll1lIIII + 1] = llIII1III
 				end
 local Ill1lIIII = math["min"](lllllIIII, #lll1lIIII)
 if Ill1lIIII == 0 then
-IllllIIII["Text"] = "No ten\233s " .. IIIII1III
+IllllIIII["Text"] = "You don't have " .. IIIII1III
 task["delay"](.9, function()
 if IllllIIII and IllllIIII["Parent"] then
 IllllIIII["Text"] = lIIllIIII
@@ -9894,7 +9894,7 @@ task["wait"](IIlllIIII)
 					end
 llIllIIII["giftSendBusy"] = false
 if IllllIIII and IllllIIII["Parent"] then
-IllllIIII["Text"] = II1II1III > 0 and l1lllIIII .. (" Enviados " .. (II1II1III .. (" " .. l1lllIIII))) or "No se confirm\243 el env\237o";
+IllllIIII["Text"] = II1II1III > 0 and l1lllIIII .. (" Enviados " .. (II1II1III .. (" " .. l1lllIIII))) or "Sending was not confirmed";
 task["delay"](1.2, function()
 if IllllIIII and (IllllIIII["Parent"] and not l1IllIIII["giftSender"]) then
 IllllIIII["Text"] = lIIllIIII
@@ -10012,7 +10012,7 @@ llIII1III["Text"] = II11lIIII(l1III1III) .. (" " .. tostring(I1III1III or "-"))
 			end
 Illllllll1(I1lllIIII, "🐾 Pets 🐾");
 local IIlllIIII
-local ll1llIIII = Il1llllll1(I1lllIIII, "Seleccionar Pet", IllllIIII, function(II1II1III)
+local ll1llIIII = Il1llllll1(I1lllIIII, "Select Pet", IllllIIII, function(II1II1III)
 if IIlllIIII then
 lIlllIIII(II1II1III, IIlllIIII)
 					end
@@ -10040,10 +10040,10 @@ return I1III1III:InvokeServer(lIIII1III)
 					end)
 return lllllIIII and IllllIIII == true
 			end
-IIlllllll1(I1lllIIII, "🐾 Comprar Pets 🐾", function()
+IIlllllll1(I1lllIIII, "🐾 Buy Pets 🐾", function()
 Il1llIIII(ll1llIIII:Get())
 			end);
-ll1llllll1(I1lllIIII, "🔁 Auto Comprar Pet 🔁", function(II1II1III)
+ll1llllll1(I1lllIIII, "🔁 Auto Buy Pet 🔁", function(II1II1III)
 llIllIIII["autoPet"] = II1II1III
 if not II1II1III then
 I1l1lIIII("autoPet")
@@ -10114,7 +10114,7 @@ task["wait"](1)
 		end
 lI1llllll1()
 lI1llllll1 = function()
-local II1II1III = llIIIIIII["Inventory"]
+local II1II1III = llIIIIIII["Inventario"]
 local IlIII1III = { ["groups"] = {}, ["options"] = {}, ["selectedName"] = nil, ["autoEvolve"] = false };
 llIllIIII["Inventory"] = IlIII1III
 local l1III1III = llIII1III:FindFirstChild("rEvents");
@@ -10251,18 +10251,18 @@ II1II1III:Refresh()
 return true
 			end
 II1II1III:SetAttribute("TightCanvas", true);
-Illllllll1(II1II1III, "Inventory")
+Illllllll1(II1II1III, "Inventario")
 lIIII1III = Il1llllll1(II1II1III, "Pet", {}, function(II1II1III)
 IlIII1III:UpdateInfo(II1II1III)
-				end, nil, "Sin pets");
+				end, nil, "No pets");
 IlIII1III["Selector"] = lIIII1III
 IIIII1III, IllllIIII, lIlllIIII = I1lllllll1(II1II1III, "Evolucionadas:", "0", lI1llIIII["cyan"], false, true)
-lllllIIII, l1lllIIII, IIlllIIII = I1lllllll1(II1II1III, "No evolucionadas:", "0", lI1llIIII["white"], false, true)
+lllllIIII, l1lllIIII, IIlllIIII = I1lllllll1(II1II1III, "Not evolved:", "0", lI1llIIII["white"], false, true)
 for II1II1III, llIII1III in ipairs({ lIlllIIII, IIlllIIII }) do
 llIII1III["Position"] = UDim2["fromOffset"](0x10, 0);
 llIII1III["Size"] = UDim2["new"](.42, -6, 1, 0)
 			end
-local ll1llIIII = ll1llllll1(II1II1III, "Auto evolucionar pet seleccionada", function(II1II1III)
+local ll1llIIII = ll1llllll1(II1II1III, "Auto evolve selected pet", function(II1II1III)
 IlIII1III["autoEvolve"] = II1II1III == true
 llIllIIII["inventoryAutoEvolve"] = IlIII1III["autoEvolve"]
 if not II1II1III then
@@ -10330,7 +10330,7 @@ I1l1lIIII("inventorySlowRefresh")
 		end
 lI1llllll1()
 lI1llllll1 = function()
-local II1II1III = llIIIIIII["Profiles"]
+local II1II1III = llIIIIIII["Perfiles"]
 local llIII1III = { ["Root"] = "Young0xHub/FG100/profiles", ["Folder"] = "Young0xHub/FG100/profiles/" .. tostring(I1lllIIII["UserId"]), ["selected"] = nil, ["deleteName"] = nil, ["deleteUntil"] = 0 };
 llIllIIII["Profiles"] = llIII1III
 local IlIII1III
@@ -10437,7 +10437,7 @@ if not l1III1III then
 return false, nil, "empty"
 				end
 if not IlIII1III:EnsureFolder() then
-IlIII1III:SetStatus("El executor no permite perfiles locales", lI1llIIII["red"])
+IlIII1III:SetStatus("The executor does not allow local profiles", lI1llIIII["red"])
 return false, nil, "unavailable"
 				end
 local lIIII1III = IlIII1III:FindDuplicate(I1III1III)
@@ -10451,7 +10451,7 @@ local IIIII1III = pcall(function()
 local II1II1III = (game:GetService("HttpService")):JSONEncode(IlIII1III:Capture(I1III1III));
 writefile(l1III1III, II1II1III)
 					end);
-IlIII1III:SetStatus(IIIII1III and "Perfil guardado: " .. I1III1III or "No se pudo guardar el perfil", IIIII1III and lI1llIIII["green"] or lI1llIIII["red"]);
+IlIII1III:SetStatus(IIIII1III and "Perfil guardado: " .. I1III1III or "Could not save the profile", IIIII1III and lI1llIIII["green"] or lI1llIIII["red"]);
 local lllllIIII = nil
 if not IIIII1III then
 lllllIIII = "write"
@@ -10508,7 +10508,7 @@ if not l1III1III or not lIIII1III or type(delfile) ~= "function" then
 if not l1III1III then
 return false
 					end
-IlIII1III:SetStatus("Nombre inv\225lido o borrado local no disponible", lI1llIIII["red"])
+IlIII1III:SetStatus("Invalid name or local deletion unavailable", lI1llIIII["red"])
 return false
 				end
 if not isfile(l1III1III) then
@@ -10529,7 +10529,7 @@ II1II1III["name"] = IIIII1III
 writefile(lIIII1III, (game:GetService("HttpService")):JSONEncode(II1II1III));
 delfile(l1III1III)
 					end);
-IlIII1III:SetStatus(IllllIIII and I1III1III .. (" renombrado a " .. IIIII1III) or "No se pudo renombrar", IllllIIII and lI1llIIII["green"] or lI1llIIII["red"]);
+IlIII1III:SetStatus(IllllIIII and I1III1III .. (" renombrado a " .. IIIII1III) or "Could not rename", IllllIIII and lI1llIIII["green"] or lI1llIIII["red"]);
 local l1lllIIII = nil
 if not IllllIIII then
 l1lllIIII = "write"
@@ -10542,7 +10542,7 @@ if not IlIII1III or type(delfile) ~= "function" or not isfile(IlIII1III) then
 return false
 				end
 local I1III1III = pcall(delfile, IlIII1III);
-llIII1III:SetStatus(I1III1III and "Perfil eliminado: " .. l1III1III or "No se pudo eliminar", I1III1III and lI1llIIII["green"] or lI1llIIII["red"])
+llIII1III:SetStatus(I1III1III and "Perfil eliminado: " .. l1III1III or "Could not delete", I1III1III and lI1llIIII["green"] or lI1llIIII["red"])
 return I1III1III
 			end
 function llIII1III.Refresh(II1II1III)
@@ -10586,7 +10586,7 @@ llIII1III:CancelDeleteConfirmation()
 					end
 llIII1III["selected"] = II1II1III
 l1lllIIII()
-				end, nil, "No ten\233s perfiles");
+				end, nil, "You don't have perfiles");
 llIII1III["Selector"] = IlIII1III
 IIIII1III = IIlllllll1(II1II1III, "Cargar perfil", function()
 if not llIII1III["selected"] then
@@ -10823,7 +10823,7 @@ local IIlllIIII = IlIII1III[1]
 local ll1llIIII
 local Il1llIIII
 local l11llIIII = 0
-local I11llIIII, IlIllIIII = Il1llllll1(II1II1III, "Pet que quer\233s", IlIII1III, function(II1II1III)
+local I11llIIII, IlIllIIII = Il1llllll1(II1II1III, "Pet you want", IlIII1III, function(II1II1III)
 IIlllIIII = type(II1II1III) == "table" and II1II1III or IlIII1III[1]
 l11llIIII = 0
 if ll1llIIII then
@@ -10850,7 +10850,7 @@ local lIIllIIII = Instance["new"]("TextLabel");
 lIIllIIII["Size"] = UDim2["new"](1, -22, 0, 0x12);
 lIIllIIII["Position"] = UDim2["fromOffset"](0xB, 3);
 lIIllIIII["BackgroundTransparency"] = 1
-lIIllIIII["Text"] = "Pets en Fuse Machine";
+lIIllIIII["Text"] = "Pets in Fuse Machine";
 lIIllIIII["TextColor3"] = lI1llIIII["cyan"]
 lIIllIIII["Font"] = lI1llIIII["fontBold"]
 lIIllIIII["TextSize"] = 0xA
@@ -10912,7 +10912,7 @@ local I1l1lIIII = Instance["new"]("TextLabel");
 I1l1lIIII["Size"] = UDim2["new"](1, -32, 1, -8);
 I1l1lIIII["Position"] = UDim2["fromOffset"](0x15, 0x4);
 I1l1lIIII["BackgroundTransparency"] = 1
-I1l1lIIII["Text"] = "La Fuse Machine sigue siendo RNG. Esta receta maximiza la probabilidad de conseguir la pet elegida.";
+I1l1lIIII["Text"] = "The Fuse Machine is still RNG. This recipe maximizes the chance of getting the selected pet.";
 I1l1lIIII["TextColor3"] = lI1llIIII["dim"]
 I1l1lIIII["Font"] = II1llIIII
 I1l1lIIII["TextSize"] = 0xB
@@ -11058,8 +11058,8 @@ llIII1III = llIII1III or I1III1III and tonumber(I1III1III["FUSE_DURATION"])
 return math["max"](llIII1III or 0, type(II1II1III) == "table" and tonumber(II1II1III["RemainingTime"]) or 0)
 			end
 local function llIIlIIII(II1II1III)
-local llIII1III = { ["empty"] = "Falta una pet.", ["notOwned"] = "Una pet ya no est\225 disponible.", ["duplicate"] = "Las 4 pets deben ser distintas.", ["equipped"] = "Desequip\225 las pets primero.", ["tradeLocked"] = "Una pet est\225 en intercambio.", ["robuxPet"] = "Esa pet no se puede fusionar.", ["protected"] = "Quit\225 la protecci\243n de la pet.", ["blocked"] = "Una pet est\225 bloqueada.", ["unconfigured"] = "Combinaci\243n no disponible.", ["evolvedNotAllowed"] = "No acepta pets evolucionadas.", ["incompleteSlots"] = "Coloc\225 las 4 pets.", ["ineligibleInput"] = "Una pet no es v\225lida.", ["rewardsUnavailable"] = "No hay resultados disponibles.", ["cooldown"] = "Esper\225 un momento.", ["rateLimited"] = "Esper\225 un momento.", ["busy"] = "Fuse Machine ocupada.", ["tooFar"] = "Acercate a la Fuse Machine.", ["notReady"] = "La pet todav\237a no est\225 lista.", ["grantFailed"] = "No se pudo entregar la pet.", ["petsFull"] = "Inventory de pets lleno.", ["invalidRequest"] = "Solicitud rechazada.", ["noRemote"] = "Fuse Machine no disponible.", ["fuseActive"] = "Ya hay una fusi\243n activa.", ["fuseNotReady"] = "La pet todav\237a no est\225 lista.", ["noFuse"] = "No hay una pet para reclamar.", ["disabled"] = "Fuse Machine desactivada." }
-return llIII1III[tostring(II1II1III or "")] or "No se pudo completar."
+local llIII1III = { ["empty"] = "A pet is missing.", ["notOwned"] = "A pet is no longer available.", ["duplicate"] = "The 4 pets must be different.", ["equipped"] = "Unequip the pets first.", ["tradeLocked"] = "A pet is being traded.", ["robuxPet"] = "That pet cannot be fused.", ["protected"] = "Remove the pet's protection.", ["blocked"] = "A pet is locked.", ["unconfigured"] = "Combination unavailable.", ["evolvedNotAllowed"] = "Evolved pets are not accepted.", ["incompleteSlots"] = "Place the 4 pets.", ["ineligibleInput"] = "A pet is invalid.", ["rewardsUnavailable"] = "No results available.", ["cooldown"] = "Esper\225 un momento.", ["rateLimited"] = "Esper\225 un momento.", ["busy"] = "Fuse Machine ocupada.", ["tooFar"] = "Acercate a la Fuse Machine.", ["notReady"] = "The pet is not ready yet.", ["grantFailed"] = "Could not deliver the pet.", ["petsFull"] = "Pet inventory is full.", ["invalidRequest"] = "Solicitud rechazada.", ["noRemote"] = "Fuse Machine unavailable.", ["fuseActive"] = "Ya hay una fusi\243n activa.", ["fuseNotReady"] = "The pet is not ready yet.", ["noFuse"] = "There is no pet to claim.", ["disabled"] = "Fuse Machine desactivada." }
+return llIII1III[tostring(II1II1III or "")] or "Could not complete."
 			end
 local function IlIIlIIII(II1II1III, llIII1III, IlIII1III, l1III1III)
 if not II1II1III then
@@ -11079,8 +11079,8 @@ lIIII1III["BackgroundTransparency"] = I1III1III and .08 or .72
 			end
 local function l1IIlIIII()
 local II1II1III = I1I1lIIII == "fusing" or I1I1lIIII == "ready";
-IlIIlIIII(l1lIlIIII, III1lIIII and "Procesando..." or "Poner pets", not III1lIIII and not II1II1III, lI1llIIII["cyan"]);
-local llIII1III = lllIlIIII > 0 and "Quitar pets \183 " .. (II11lIIII(lllIlIIII) .. "/4") or "Quitar pets";
+IlIIlIIII(l1lIlIIII, III1lIIII and "Procesando..." or "Place pets", not III1lIIII and not II1II1III, lI1llIIII["cyan"]);
+local llIII1III = lllIlIIII > 0 and "Remove pets \183 " .. (II11lIIII(lllIlIIII) .. "/4") or "Remove pets";
 IlIIlIIII(I1lIlIIII, llIII1III, not III1lIIII and (not II1II1III and lllIlIIII > 0), lI1llIIII["blue"]);
 IlIIlIIII(IIlIlIIII, "Actualizar inventario", not III1lIIII, lI1llIIII["cyan"])
 if III1lIIII then
@@ -11117,7 +11117,7 @@ IlI1lIIII["Visible"] = true
 l1I1lIIII["Size"] = UDim2["fromScale"](math["clamp"](1 - IlIII1III / II1II1III, 0, 1), 1);
 l1I1lIIII["BackgroundColor3"] = lI1llIIII["cyan"]
 				elseif I1I1lIIII == "ready" then
-lI11lIIII["Text"] = "Pet lista para reclamar";
+lI11lIIII["Text"] = "Pet ready to claim";
 lI11lIIII["TextColor3"] = lI1llIIII["green"]
 lI11lIIII["Size"] = UDim2["new"](1, -40, 0, 0x2A);
 I111lIIII["BackgroundColor3"] = lI1llIIII["green"]
@@ -11130,14 +11130,14 @@ lI11lIIII["Size"] = UDim2["new"](.58, -20, 0, 0x1E)
 local lIIII1III
 local IIIII1III
 if I1I1lIIII == "confirm" then
-lIIII1III = "Las 4 pets se eliminan al fusionar."
+lIIII1III = "The 4 pets are removed when fusing."
 IIIII1III = lI1llIIII["yellow"]
 				elseif I1I1lIIII == "error" then
-lIIII1III = tostring(llIII1III or "No se pudo completar.")
+lIIII1III = tostring(llIII1III or "Could not complete.")
 IIIII1III = lI1llIIII["red"]
 IllIlIIII = os["clock"]() + 0x4
 				elseif I1I1lIIII == "claimed" then
-lIIII1III = tostring(llIII1III or "Pet reclamada.")
+lIIII1III = tostring(llIII1III or "Pet claimed.")
 IIIII1III = lI1llIIII["green"]
 IllIlIIII = os["clock"]() + 0x5
 				end
@@ -11232,7 +11232,7 @@ local II1II1III = IIIIlIIII()
 lllIlIIII = II1II1III
 if l11llIIII > 0 and l11llIIII <= os["clock"]() then
 l11llIIII = 0
-I1IIlIIII(II1II1III == 0x4 and "prepared" or "idle", II1II1III == 0x4 and "4/4 pets colocadas." or nil)
+I1IIlIIII(II1II1III == 0x4 and "prepared" or "idle", II1II1III == 0x4 and "4/4 pets placed." or nil)
 						elseif IllIlIIII > 0 and (IllIlIIII <= os["clock"]() and (I1I1lIIII == "error" or I1I1lIIII == "claimed")) then
 IllIlIIII = 0
 I1IIlIIII(II1II1III == 0x4 and "prepared" or "idle")
@@ -11300,7 +11300,7 @@ return
 local llIII1III = IIlllIIII or IlIII1III[1]
 local l1III1III = I1lllIIII:FindFirstChild("petsFolder")
 if not l1III1III or not IIIII1III or type(IIIII1III["SetSlot"]) ~= "function" or type(IIIII1III["DescribePet"]) ~= "function" then
-I1IIlIIII("error", "La Fuse Machine todav\237a no est\225 disponible.")
+I1IIlIIII("error", "The Fuse Machine is not available yet.")
 return
 				end
 local I1III1III = {};
@@ -11324,7 +11324,7 @@ break
 						end
 					end
 if not IlIII1III then
-I1IIlIIII("error", "Faltan pets para esta receta.")
+I1IIlIIII("error", "Pets are missing for this recipe.")
 return
 					end
 lIIII1III[IlIII1III] = true
@@ -11333,11 +11333,11 @@ I1III1III[#I1III1III + 1] = IlIII1III
 local lllllIIII = type(IIIII1III["GetSlots"]) == "function" and IIIII1III:GetSlots() or {}
 III1lIIII = true
 l11llIIII = 0
-I1IIlIIII("loading", "Colocando cuatro pets distintas...");
+I1IIlIIII("loading", "Placing four different pets...");
 local IllllIIII = pcall(IIIII1III["ClearSlots"], IIIII1III)
 if not IllllIIII then
 III1lIIII = false
-I1IIlIIII("error", "No se pudieron limpiar los espacios de fusi\243n.")
+I1IIlIIII("error", "Could not clear the fusion slots.")
 return
 				end
 for II1II1III, llIII1III in ipairs(I1III1III) do
@@ -11351,7 +11351,7 @@ pcall(IIIII1III["SetSlot"], IIIII1III, II1II1III, llIII1III)
 							end
 						end
 III1lIIII = false
-I1IIlIIII("error", "No se pudo colocar la receta. Intent\225 nuevamente.")
+I1IIlIIII("error", "Could not place the recipe. Try again.")
 return
 					end
 				end
@@ -11376,7 +11376,7 @@ lllIlIIII = IIIIlIIII()
 if II1II1III and lllIlIIII == 0 then
 I1IIlIIII("idle")
 				else
-I1IIlIIII("error", "No se pudieron quitar las pets.")
+I1IIlIIII("error", "Could not remove the pets.")
 				end
 			end
 local function lIll1IIII()
@@ -11384,11 +11384,11 @@ if III1lIIII or not IIIII1III or type(IIIII1III["ClaimFuse"]) ~= "function" then
 return
 				end
 III1lIIII = true
-I1IIlIIII("loading", "Retirando tu nueva pet...");
+I1IIlIIII("loading", "Removing your new pet...");
 local II1II1III, llIII1III = pcall(IIIII1III["ClaimFuse"], IIIII1III)
 III1lIIII = false
 if not II1II1III or type(llIII1III) ~= "table" then
-I1IIlIIII("error", "No se pudo reclamar la pet. Intent\225 nuevamente.")
+I1IIlIIII("error", "Could not claim the pet. Try again.")
 return
 				end
 if llIII1III["Ok"] and type(llIII1III["Result"]) == "table" then
@@ -11418,11 +11418,11 @@ Il1llIIII()
 return
 				end
 if not IIIII1III or type(IIIII1III["Craft"]) ~= "function" then
-I1IIlIIII("error", "La Fuse Machine todav\237a no est\225 disponible.")
+I1IIlIIII("error", "The Fuse Machine is not available yet.")
 return
 				end
 if IIIIlIIII() ~= 0x4 then
-I1IIlIIII("error", "Coloc\225 las 4 pets.")
+I1IIlIIII("error", "Place the 4 pets.")
 return
 				end
 if l11llIIII <= os["clock"]() then
@@ -11436,7 +11436,7 @@ I1IIlIIII("loading", "Iniciando la fusi\243n...");
 local llIII1III, IlIII1III = pcall(IIIII1III["Craft"], IIIII1III)
 III1lIIII = false
 if not llIII1III or type(IlIII1III) ~= "table" then
-I1IIlIIII("error", "No se pudo iniciar la fusi\243n. Intent\225 nuevamente.")
+I1IIlIIII("error", "Could not start the fusion. Try again.")
 return
 				end
 if IlIII1III["Ok"] and IlIII1III["Fuse"] then
@@ -11453,9 +11453,9 @@ ll1llIIII()
 I1IIlIIII("error", llIIlIIII(IlIII1III["Reason"]))
 				end
 			end
-l1lIlIIII = Illl1IIII("Poner pets", l1ll1IIII);
+l1lIlIIII = Illl1IIII("Place pets", l1ll1IIII);
 l1lIlIIII["Name"] = "FusePrepareRecipeButton"
-I1lIlIIII = Illl1IIII("Quitar pets", I1ll1IIII);
+I1lIlIIII = Illl1IIII("Remove pets", I1ll1IIII);
 I1lIlIIII["Name"] = "FuseRemovePetsButton"
 lIlIlIIII = Illl1IIII("Fusionar", IIll1IIII);
 lIlIlIIII["Name"] = "FuseActionButton"
@@ -12043,7 +12043,7 @@ local l11llIIII = type(getfpscap) == "function" and getfpscap or get_fps_cap
 llIllIIII["setMiscFpsUnlock"] = function(II1II1III)
 II1II1III = II1II1III == true
 if II1II1III and type(Il1llIIII) ~= "function" then
-IIlllIIII("Tu executor no ofrece FPS Unlock.")
+IIlllIIII("Your executor does not offer FPS Unlock.")
 return false
 						end
 if II1II1III == llIllIIII["miscFpsUnlock"] then
@@ -12250,7 +12250,7 @@ local IlIII1III = I1lllIIII["Character"]
 local l1III1III = l111lIIII();
 local lIIII1III = IlIII1III and IlIII1III:FindFirstChildWhichIsA("Humanoid")
 if not llIII1III or not IlIII1III or not l1III1III or not lIIII1III or lIIII1III["Health"] <= 0 then
-IIlllIIII("Freecam necesita que tu personaje est\233 vivo.")
+IIlllIIII("Freecam requires your character to be alive.")
 return false
 						end
 if llIllIIII["miscClickTp"] then
@@ -12280,7 +12280,7 @@ IlIllIIII(llIllIIII["miscFreecamSaved"])
 							end)
 if not IIIII1III then
 lIIllIIII();
-IIlllIIII("No se pudo iniciar Freecam; todo fue restaurado.")
+IIlllIIII("Could not start Freecam; everything was restored.")
 return false
 						end
 return true
@@ -12762,7 +12762,7 @@ local II1II1III = IllIlIIII();
 local llIII1III = l111lIIII();
 local IlIII1III = II1II1III and (II1II1III["Character"] and II1II1III["Character"]:FindFirstChild("HumanoidRootPart"))
 if not II1II1III or not llIII1III or not IlIII1III then
-IIlllIIII("Seleccion\225 un jugador disponible.")
+IIlllIIII("Select a player disponible.")
 return false
 					end
 llIII1III["CFrame"] = IlIII1III["CFrame"] * CFrame["new"](0, 0, l1lIlIIII(llIII1III, IlIII1III));
@@ -12773,7 +12773,7 @@ return true
 llIllIIII["setMiscFollow"] = function(II1II1III)
 II1II1III = II1II1III == true
 if II1II1III and not IllIlIIII() then
-IIlllIIII("Seleccion\225 un jugador disponible.")
+IIlllIIII("Select a player disponible.")
 return false
 					end
 if II1II1III and (llIllIIII["miscOrbitEnabled"] and llIllIIII["setMiscOrbit"]) then
@@ -12797,7 +12797,7 @@ llIllIIII["miscFollowEnabled"] = false
 if llIllIIII["miscFollowToggle"] then
 llIllIIII["miscFollowToggle"]:Set(false, true)
 								end
-IIlllIIII("El objetivo ya no est\225 disponible.")
+IIlllIIII("The target is no longer available.")
 break
 							elseif llIII1III and l1III1III then
 local II1II1III = l1III1III["CFrame"] * CFrame["new"](0, 0, l1lIlIIII(llIII1III, l1III1III))
@@ -12816,7 +12816,7 @@ return true
 llIllIIII["setMiscFaceTarget"] = function(II1II1III)
 II1II1III = II1II1III == true
 if II1II1III and not IllIlIIII() then
-IIlllIIII("Seleccion\225 un jugador disponible.")
+IIlllIIII("Select a player disponible.")
 return false
 					end
 llIllIIII["miscFaceTarget"] = II1II1III
@@ -12849,7 +12849,7 @@ return true
 llIllIIII["setMiscOrbit"] = function(II1II1III)
 II1II1III = II1II1III == true
 if II1II1III and not IllIlIIII() then
-IIlllIIII("Seleccion\225 un jugador disponible.")
+IIlllIIII("Select a player disponible.")
 return false
 					end
 if II1II1III and llIllIIII["miscFollowEnabled"] then
@@ -12875,7 +12875,7 @@ llIllIIII["miscOrbitEnabled"] = false
 if llIllIIII["miscOrbitToggle"] then
 llIllIIII["miscOrbitToggle"]:Set(false, true)
 								end
-IIlllIIII("El objetivo ya no est\225 disponible.")
+IIlllIIII("The target is no longer available.")
 break
 							elseif I1III1III and lIIII1III then
 II1II1III = II1II1III + math["max"](1, llIllIIII["miscOrbitSpeed"]) * llIII1III
@@ -13658,7 +13658,7 @@ Illllllll1(II1II1III, "🚀 Fly 🚀");
 ll1llllll1(II1II1III, " Fly ", function(II1II1III)
 lI1lIIIII(II1II1III)
 		end);
-I11llllll1(II1II1III, "Velocidad del Fly", 1, 0x1E, llIllIIII["flyLevel"], function(II1II1III)
+I11llllll1(II1II1III, "Fly Speed", 1, 0x1E, llIllIIII["flyLevel"], function(II1II1III)
 llIllIIII["flyLevel"] = II1II1III
 		end);
 Illllllll1(II1II1III, "👁️ ESP y tracers 👁️");
@@ -13673,18 +13673,18 @@ return llIllIIII["setMiscVisualFlag"]("distance", II1II1III)
 				end), ["durability"] = ll1llllll1(II1II1III, "ESP: Durability", function(II1II1III)
 return llIllIIII["setMiscVisualFlag"]("durability", II1II1III)
 				end) };
-Illllllll1(II1II1III, "🧭 Jugadores 🧭");
+Illllllll1(II1II1III, "🧭 Playeres 🧭");
 llIllIIII["miscPlayerSelector"] = Il1llllll1(II1II1III, "Objetivo", llIllIIII["miscTargetOptions"](), function(II1II1III)
 llIllIIII["miscTarget"] = type(II1II1III) == "table" and II1II1III["name"] or II1II1III
 llIllIIII["spyTarget"] = llIllIIII["miscTarget"]
-			end, nil, "Sin jugadores disponibles")
+			end, nil, "No players available")
 if #llIllIIII["miscTargetOptions"]() > 0 then
 llIllIIII["miscPlayerSelector"]:SetIndex(1)
 		end
-IIlllllll1(II1II1III, "Teletransportarse al jugador", function()
+IIlllllll1(II1II1III, "Teleport to Player", function()
 llIllIIII["teleportToMiscPlayer"]()
 		end);
-llIllIIII["miscFollowToggle"] = ll1llllll1(II1II1III, "Tracker: Seguir jugador", function(II1II1III)
+llIllIIII["miscFollowToggle"] = ll1llllll1(II1II1III, "Tracker: Follow Player", function(II1II1III)
 return llIllIIII["setMiscFollow"](II1II1III)
 			end);
 I11llllll1(II1II1III, "Distancia seguimiento", 2, 0x1E, llIllIIII["miscFollowDistance"], function(II1II1III)
@@ -13699,7 +13699,7 @@ llIllIIII["miscOrbitRadius"] = II1II1III
 I11llllll1(II1II1III, "Velocidad de \243rbita", 1, 0xF, llIllIIII["miscOrbitSpeed"], function(II1II1III)
 llIllIIII["miscOrbitSpeed"] = II1II1III
 		end);
-llIllIIII["spyToggle"] = ll1llllll1(II1II1III, "Spy: Watch Player", function(II1II1III)
+llIllIIII["spyToggle"] = ll1llllll1(II1II1III, "Spy: Mirar jugador", function(II1II1III)
 local llIII1III = llIllIIII["selectedMiscPlayer"]()
 if II1II1III and not llIII1III then
 return false
