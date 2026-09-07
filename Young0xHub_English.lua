@@ -46,7 +46,7 @@ pcall(II1II1III["connection"]["Disconnect"], II1II1III["connection"])
 		end
 IIlllIIII["Young0xPersistentAntiAfk"] = nil
 	end
-local I11llIIII = { ["Title"] = "Young0x Hub", ["Subtitle"] = "Crack by 2zvh :3", ["BackgroundAsset"] = "rbxassetid://16718471546", ["BackgroundSourceAsset"] = "rbxassetid://16718471629", ["Discord"] = "https://discord.gg/NxZNRGJfQc", ["YouTube"] = "https://www.youtube.com/@Real_Young0x", ["Size"] = { ["DesktopWidth"] = 0x224, ["DesktopHeight"] = 0x168, ["MobileWidthScale"] = .9, ["MobileHeightScale"] = .58, ["MinWidth"] = 0x114, ["MinHeight"] = 0xDC, ["MaxMobileWidth"] = 0x1D6, ["MaxMobileHeight"] = 0x136 }, ["Colors"] = { ["base"] = Color3["fromRGB"](0x7, 0x9, 0xD), ["panel"] = Color3["fromRGB"](0xE, 0x11, 0x17), ["row"] = Color3["fromRGB"](0x1B, 0x1F, 0x27), ["rowHover"] = Color3["fromRGB"](0x28, 0x2E, 0x3A), ["tab"] = Color3["fromRGB"](0x15, 0x19, 0x21), ["tabOn"] = Color3["fromRGB"](0x30, 0x3D, 0x4E), ["cyan"] = Color3["fromRGB"](0x84, 0xCF, 0xFF), ["blue"] = Color3["fromRGB"](0xA5, 0x9B, 0xE4), ["green"] = Color3["fromRGB"](0x7E, 0xE0, 0xAF), ["yellow"] = Color3["fromRGB"](0xEE, 0xCE, 0x6F), ["orange"] = Color3["fromRGB"](0xEC, 0x9F, 0x5D), ["red"] = Color3["fromRGB"](0xFF, 0x37, 0x52), ["white"] = Color3["fromRGB"](0xF6, 0xF8, 0xFC), ["soft"] = Color3["fromRGB"](0xE1, 0xE6, 0xEF), ["dim"] = Color3["fromRGB"](0xA5, 0xAE, 0xBD), ["black"] = Color3["fromRGB"](0, 0, 0) }, ["Tabs"] = { { "Info", 0x3E }, { "Main", 0x3E }, { "Fast Farm", 0x54 }, { "Full Train", 0x5C }, { "Auto Farm", 0x58 }, { "Pet Momentum", 0x6A }, { "Rebirths", 0x4E }, { "Kills", 0x3E }, { "Pet Shop", 0x56 }, { "Inventario", 0x56 }, { "Fuse Machine", 0x64 }, { "Fast Trade", 0x58 }, { "Gifts", 0x3C }, { "Fast Glitch 100%", 0x78 }, { "Teleports", 0x54 }, { "Perfiles", 0x4C }, { "Stats", 0x3E }, { "Misc", 0x3C } }, ["Rocks"] = { { ["name"] = "Industrial Jungle Rock", ["label"] = "Industrial Rock", ["durability"] = 25000000 }, { ["name"] = "Ancient Rock", ["durability"] = 10000000 }, { ["name"] = "Muscle King Rock", ["durability"] = 5000000 }, { ["name"] = "Legend Rock", ["durability"] = 1000000 }, { ["name"] = "Eternal Rock", ["durability"] = 750000 }, { ["name"] = "Mythical Rock", ["durability"] = 400000 }, { ["name"] = "Frost Rock", ["durability"] = 150000 }, { ["name"] = "Beach Rock", ["durability"] = 0x1388 }, { ["name"] = "Starter Rock", ["durability"] = 0x64 }, { ["name"] = "Tiny Rock", ["durability"] = 0 } }, ["Machines"] = { { ["section"] = "Industrial Machines", ["label"] = "Industrial Bar Lift", ["object"] = "Industrial Bar Lift", ["fallback"] = CFrame["new"](-5492.7051, 82.9405, 4643.6421) }, { ["section"] = "Industrial Machines", ["label"] = "Industrial Bench", ["object"] = "Industrial Bench", ["fallback"] = CFrame["new"](-5014.7197, 101.4016, 4467.3472) }, { ["section"] = "Industrial Machines", ["label"] = "Industrial Boulder", ["object"] = "Industrial Boulder", ["fallback"] = CFrame["new"](-5456.4297, 85.4802, 5231.5352) }, { ["section"] = "Industrial Machines", ["label"] = "Industrial Squat", ["object"] = "Industrial Squat", ["fallback"] = CFrame["new"](-5422.1152, 76.9691, 5443.0771) }, { ["section"] = "Jungle Gym Machines", ["label"] = "Jungle Bar Lift", ["object"] = "Jungle Bar Lift", ["fallback"] = CFrame["new"](-8652.8672, 29.2667, 2089.2617) }, { ["section"] = "Jungle Gym Machines", ["label"] = "Jungle Bench", ["object"] = "Jungle Bench", ["fallback"] = CFrame["new"](-8174.8818, 47.7279, 1912.9667) }, { ["section"] = "Jungle Gym Machines", ["label"] = "Jungle Boulder", ["object"] = "Jungle Boulder", ["fallback"] = CFrame["new"](-8616.5918, 31.8064, 2677.1548) }, { ["section"] = "Jungle Gym Machines", ["label"] = "Jungle Squat", ["object"] = "Jungle Squat", ["fallback"] = CFrame["new"](-8377.2773, 34.8563, 2863.6965) }, { ["section"] = "Legends Gym Machines", ["label"] = "Legends Lift", ["object"] = "Legends Lift", ["fallback"] = CFrame["new"](4532.2178, 1012.491, -4002.7122) }, { ["section"] = "Legends Gym Machines", ["label"] = "Legends Press", ["object"] = "Legends Press", ["fallback"] = CFrame["new"](4109.9131, 1012.2094, -3802.1533) }, { ["section"] = "Legends Gym Machines", ["label"] = "Legends Pullup", ["object"] = "Legends Pullup", ["fallback"] = CFrame["new"](4510.2075, 999.8143, -3636.7175) }, { ["section"] = "Legends Gym Machines", ["label"] = "Legends Squat", ["object"] = "Legends Squat", ["fallback"] = CFrame["new"](4439.7734, 1008.0662, -4058.4868) }, { ["section"] = "Legends Gym Machines", ["label"] = "Legends Throw", ["object"] = "Legends Throw", ["fallback"] = CFrame["new"](4189.9614, 1004.3785, -3903.0166) }, { ["section"] = "Muscle King Machines", ["label"] = "Muscle King Lift", ["object"] = "Muscle King Lift", ["fallback"] = CFrame["new"](-8772.9707, 39.191, -5663.5625) }, { ["section"] = "Muscle King Machines", ["label"] = "Muscle King Bench", ["object"] = "Muscle King Bench", ["fallback"] = CFrame["new"](-8590.2354, 37.7592, -6044.5952) }, { ["section"] = "Muscle King Machines", ["label"] = "King Boulder", ["object"] = "King Boulder", ["fallback"] = CFrame["new"](-8942.1289, 43.7785, -5691.6362) }, { ["section"] = "Muscle King Machines", ["label"] = "Muscle King Squat", ["object"] = "Muscle King Squat", ["fallback"] = CFrame["new"](-8758.4424, 32.8662, -6043.0693) } }, ["FullTrainAreas"] = { { ["section"] = "Eternal Gym", ["center"] = Vector3["new"](-6768, 0, -1287) }, { ["section"] = "Mythical Gym", ["center"] = Vector3["new"](0x8CF, 0, 0x42F) }, { ["section"] = "Frost Gym", ["center"] = Vector3["new"](-2650, 0, -393) }, { ["section"] = "Playa", ["center"] = Vector3["new"](0x9, 0, 0x64) }, { ["section"] = "Magma Ring", ["center"] = Vector3["new"](0x1130, 0, -8400) }, { ["section"] = "Desert Ring", ["center"] = Vector3["new"](0x384, 0, -7000) }, { ["section"] = "Boxing Ring", ["center"] = Vector3["new"](-1900, 0, -5820) }, { ["section"] = "Tiny Island", ["center"] = Vector3["new"](0x32, 0, 0x77E) } }, ["FullTrainMachines"] = {}, ["Teleports"] = { { "Rip Glitch Pets", Vector3["new"](-499.3, 3.15, -204.61), ["lookAt"] = Vector3["new"](-507.07, 3.15, -204.61), ["utility"] = true }, { "Industrial Gym", Vector3["new"](-5165, 0x39, 0x1351) }, { "Jungle Gym", Vector3["new"](-7894, 0x6, 0x952) }, { "Muscle King", Vector3["new"](-8799, 0x11, -5798) }, { "Legends Gym", Vector3["new"](0x114D, 0x3DF, -3880) }, { "Eternal Gym", Vector3["new"](-6768, 0x7, -1287) }, { "Mythical Gym", Vector3["new"](0x8CF, 0x7, 0x42F) }, { "Frost Gym", Vector3["new"](-2650, 0x7, -393) }, { "Tiny Gym", Vector3["new"](0x32, 0x7, 0x77E) }, { "Beach", Vector3["new"](0x9, 0x7, 0x64) }, { "Secret Area", Vector3["new"](0x79B, 2, 0x182F) }, { "Desert Brawl", Vector3["new"](0x3C0, 0x11, -7398) }, { "Lava Brawl", Vector3["new"](0x1177, 0x77, -8836) } }, ["UniqueAuras"] = { "Muscle King", "Entropic Blast" }, ["UniquePets"] = { "Core Pup", "Volt Talon", "Reactor Beast", "Plasma Ravager", "Titan Reactor", "Apex Overlord", "Neon Guardian", "Cybernetic Showdown Dragon", "Darkstar Hunter", "Muscle Sensei", "Infernal Dragon", "Aether Spirit Bunny", "Magic Butterfly", "Ultra Birdie" }, ["AutoEgg"] = { ["Interval"] = 0x708, ["Names"] = { "ProteinEgg", "Protein Egg" } }, ["FastFarm"] = { ["StrengthPet"] = "Swift Samurai", ["RebirthPet"] = "Tribal Overlord", ["StrengthMachine"] = "Industrial Bench", ["RebirthMachine"] = "Industrial Bar Lift", ["MaxPets"] = 0x9, ["RepsPerCycle"] = 0x30, ["RepDelay"] = .008, ["PingSoft"] = 0xB4, ["PingMedium"] = 0x12C, ["PingHigh"] = 0x258, ["PingCritical"] = 0x2BC, ["PingPause"] = 0x370, ["PingResume"] = 0x1C2, ["PingReducerPause"] = 0x35C, ["PingReducerResume"] = 0x1E0, ["PingSampleInterval"] = .12, ["StrengthPingSoft"] = 0x190, ["StrengthPingMedium"] = 0x230, ["StrengthPingHigh"] = 0x2D0, ["StrengthPingCritical"] = 0x348, ["StrengthMinBatch"] = 0x1A, ["StrengthStartBatch"] = 0x2A, ["StrengthMaxBatch"] = 0x2A, ["StrengthBackoffPing"] = 0x2BC, ["StrengthBackoffInterval"] = .35, ["StrengthRampPing"] = 0x1C2, ["StrengthRampInterval"] = .9, ["StrengthDelay"] = .05, ["SizeInvokeInterval"] = .75, ["SizeReleaseDuration"] = 0x5, ["FramesReleaseDuration"] = 0xA, ["RebirthCooldown"] = 0x6, ["RebirthSafetyMargin"] = .03, ["RebirthRepBatch"] = 3, ["RebirthPetCount"] = 0x8, ["RebirthPingRise"] = 0x64, ["RebirthPingPause"] = 0x1C2, ["RebirthWarmupStrength"] = 50000000000, ["RebirthWarmupWindow"] = 3, ["RebirthCycleDelay"] = .2, ["RebirthRetryDelay"] = .02, ["RebirthRequestWindow"] = .75 }, ["ServerHop"] = { ["Interval"] = 0x5A, ["LoaderUrl"] = "https://raw.githubusercontent.com/Young0xHUB/Young0x-HUB/refs/heads/main/loader.lua", ["ServerApi"] = "https://games.roblox.com/v1/games/%d/servers/Public?sortOrder=Desc&limit=100", ["PreferredPlayers"] = 0x12, ["MinimumPlayers"] = 0xC, ["NoTargetsDelay"] = 0xA, ["RetryDelay"] = 0x5, ["HistoryLimit"] = 0x3C }, ["Kills"] = { ["ProtectedPrivateServerIds"] = {} } };
+local I11llIIII = { ["Title"] = "Young0x Hub", ["Subtitle"] = "Crack by 2zvh :3", ["BackgroundAsset"] = "rbxassetid://16718471546", ["BackgroundSourceAsset"] = "rbxassetid://16718471629", ["Discord"] = "https://discord.gg/NxZNRGJfQc", ["YouTube"] = "https://www.youtube.com/@Real_Young0x", ["Size"] = { ["DesktopWidth"] = 0x224, ["DesktopHeight"] = 0x168, ["MobileWidthScale"] = .9, ["MobileHeightScale"] = .58, ["MinWidth"] = 0x114, ["MinHeight"] = 0xDC, ["MaxMobileWidth"] = 0x1D6, ["MaxMobileHeight"] = 0x136 }, ["Colors"] = { ["base"] = Color3["fromRGB"](0x7, 0x9, 0xD), ["panel"] = Color3["fromRGB"](0xE, 0x11, 0x17), ["row"] = Color3["fromRGB"](0x1B, 0x1F, 0x27), ["rowHover"] = Color3["fromRGB"](0x28, 0x2E, 0x3A), ["tab"] = Color3["fromRGB"](0x15, 0x19, 0x21), ["tabOn"] = Color3["fromRGB"](0x30, 0x3D, 0x4E), ["cyan"] = Color3["fromRGB"](0x84, 0xCF, 0xFF), ["blue"] = Color3["fromRGB"](0xA5, 0x9B, 0xE4), ["green"] = Color3["fromRGB"](0x7E, 0xE0, 0xAF), ["yellow"] = Color3["fromRGB"](0xEE, 0xCE, 0x6F), ["orange"] = Color3["fromRGB"](0xEC, 0x9F, 0x5D), ["red"] = Color3["fromRGB"](0xFF, 0x37, 0x52), ["white"] = Color3["fromRGB"](0xF6, 0xF8, 0xFC), ["soft"] = Color3["fromRGB"](0xE1, 0xE6, 0xEF), ["dim"] = Color3["fromRGB"](0xA5, 0xAE, 0xBD), ["black"] = Color3["fromRGB"](0, 0, 0) }, ["Tabs"] = { { "Info", 0x3E }, { "Main", 0x3E }, { "Fast Farm", 0x54 }, { "Full Train", 0x5C }, { "Auto Farm", 0x58 }, { "Pet Momentum", 0x6A }, { "Rebirths", 0x4E }, { "Kills", 0x3E }, { "Pet Shop", 0x56 }, { "Inventory", 0x56 }, { "Fuse Machine", 0x64 }, { "Fast Trade", 0x58 }, { "Gifts", 0x3C }, { "Fast Glitch 100%", 0x78 }, { "Teleports", 0x54 }, { "Profiles", 0x4C }, { "Stats", 0x3E }, { "Misc", 0x3C } }, ["Rocks"] = { { ["name"] = "Industrial Jungle Rock", ["label"] = "Industrial Rock", ["durability"] = 25000000 }, { ["name"] = "Ancient Rock", ["durability"] = 10000000 }, { ["name"] = "Muscle King Rock", ["durability"] = 5000000 }, { ["name"] = "Legend Rock", ["durability"] = 1000000 }, { ["name"] = "Eternal Rock", ["durability"] = 750000 }, { ["name"] = "Mythical Rock", ["durability"] = 400000 }, { ["name"] = "Frost Rock", ["durability"] = 150000 }, { ["name"] = "Beach Rock", ["durability"] = 0x1388 }, { ["name"] = "Starter Rock", ["durability"] = 0x64 }, { ["name"] = "Tiny Rock", ["durability"] = 0 } }, ["Machines"] = { { ["section"] = "Industrial Machines", ["label"] = "Industrial Bar Lift", ["object"] = "Industrial Bar Lift", ["fallback"] = CFrame["new"](-5492.7051, 82.9405, 4643.6421) }, { ["section"] = "Industrial Machines", ["label"] = "Industrial Bench", ["object"] = "Industrial Bench", ["fallback"] = CFrame["new"](-5014.7197, 101.4016, 4467.3472) }, { ["section"] = "Industrial Machines", ["label"] = "Industrial Boulder", ["object"] = "Industrial Boulder", ["fallback"] = CFrame["new"](-5456.4297, 85.4802, 5231.5352) }, { ["section"] = "Industrial Machines", ["label"] = "Industrial Squat", ["object"] = "Industrial Squat", ["fallback"] = CFrame["new"](-5422.1152, 76.9691, 5443.0771) }, { ["section"] = "Jungle Gym Machines", ["label"] = "Jungle Bar Lift", ["object"] = "Jungle Bar Lift", ["fallback"] = CFrame["new"](-8652.8672, 29.2667, 2089.2617) }, { ["section"] = "Jungle Gym Machines", ["label"] = "Jungle Bench", ["object"] = "Jungle Bench", ["fallback"] = CFrame["new"](-8174.8818, 47.7279, 1912.9667) }, { ["section"] = "Jungle Gym Machines", ["label"] = "Jungle Boulder", ["object"] = "Jungle Boulder", ["fallback"] = CFrame["new"](-8616.5918, 31.8064, 2677.1548) }, { ["section"] = "Jungle Gym Machines", ["label"] = "Jungle Squat", ["object"] = "Jungle Squat", ["fallback"] = CFrame["new"](-8377.2773, 34.8563, 2863.6965) }, { ["section"] = "Legends Gym Machines", ["label"] = "Legends Lift", ["object"] = "Legends Lift", ["fallback"] = CFrame["new"](4532.2178, 1012.491, -4002.7122) }, { ["section"] = "Legends Gym Machines", ["label"] = "Legends Press", ["object"] = "Legends Press", ["fallback"] = CFrame["new"](4109.9131, 1012.2094, -3802.1533) }, { ["section"] = "Legends Gym Machines", ["label"] = "Legends Pullup", ["object"] = "Legends Pullup", ["fallback"] = CFrame["new"](4510.2075, 999.8143, -3636.7175) }, { ["section"] = "Legends Gym Machines", ["label"] = "Legends Squat", ["object"] = "Legends Squat", ["fallback"] = CFrame["new"](4439.7734, 1008.0662, -4058.4868) }, { ["section"] = "Legends Gym Machines", ["label"] = "Legends Throw", ["object"] = "Legends Throw", ["fallback"] = CFrame["new"](4189.9614, 1004.3785, -3903.0166) }, { ["section"] = "Muscle King Machines", ["label"] = "Muscle King Lift", ["object"] = "Muscle King Lift", ["fallback"] = CFrame["new"](-8772.9707, 39.191, -5663.5625) }, { ["section"] = "Muscle King Machines", ["label"] = "Muscle King Bench", ["object"] = "Muscle King Bench", ["fallback"] = CFrame["new"](-8590.2354, 37.7592, -6044.5952) }, { ["section"] = "Muscle King Machines", ["label"] = "King Boulder", ["object"] = "King Boulder", ["fallback"] = CFrame["new"](-8942.1289, 43.7785, -5691.6362) }, { ["section"] = "Muscle King Machines", ["label"] = "Muscle King Squat", ["object"] = "Muscle King Squat", ["fallback"] = CFrame["new"](-8758.4424, 32.8662, -6043.0693) } }, ["FullTrainAreas"] = { { ["section"] = "Eternal Gym", ["center"] = Vector3["new"](-6768, 0, -1287) }, { ["section"] = "Mythical Gym", ["center"] = Vector3["new"](0x8CF, 0, 0x42F) }, { ["section"] = "Frost Gym", ["center"] = Vector3["new"](-2650, 0, -393) }, { ["section"] = "Beach", ["center"] = Vector3["new"](0x9, 0, 0x64) }, { ["section"] = "Magma Ring", ["center"] = Vector3["new"](0x1130, 0, -8400) }, { ["section"] = "Desert Ring", ["center"] = Vector3["new"](0x384, 0, -7000) }, { ["section"] = "Boxing Ring", ["center"] = Vector3["new"](-1900, 0, -5820) }, { ["section"] = "Tiny Island", ["center"] = Vector3["new"](0x32, 0, 0x77E) } }, ["FullTrainMachines"] = {}, ["Teleports"] = { { "Rip Glitch Pets", Vector3["new"](-499.3, 3.15, -204.61), ["lookAt"] = Vector3["new"](-507.07, 3.15, -204.61), ["utility"] = true }, { "Industrial Gym", Vector3["new"](-5165, 0x39, 0x1351) }, { "Jungle Gym", Vector3["new"](-7894, 0x6, 0x952) }, { "Muscle King", Vector3["new"](-8799, 0x11, -5798) }, { "Legends Gym", Vector3["new"](0x114D, 0x3DF, -3880) }, { "Eternal Gym", Vector3["new"](-6768, 0x7, -1287) }, { "Mythical Gym", Vector3["new"](0x8CF, 0x7, 0x42F) }, { "Frost Gym", Vector3["new"](-2650, 0x7, -393) }, { "Tiny Gym", Vector3["new"](0x32, 0x7, 0x77E) }, { "Beach", Vector3["new"](0x9, 0x7, 0x64) }, { "Secret Area", Vector3["new"](0x79B, 2, 0x182F) }, { "Desert Brawl", Vector3["new"](0x3C0, 0x11, -7398) }, { "Lava Brawl", Vector3["new"](0x1177, 0x77, -8836) } }, ["UniqueAuras"] = { "Muscle King", "Entropic Blast" }, ["UniquePets"] = { "Core Pup", "Volt Talon", "Reactor Beast", "Plasma Ravager", "Titan Reactor", "Apex Overlord", "Neon Guardian", "Cybernetic Showdown Dragon", "Darkstar Hunter", "Muscle Sensei", "Infernal Dragon", "Aether Spirit Bunny", "Magic Butterfly", "Ultra Birdie" }, ["AutoEgg"] = { ["Interval"] = 0x708, ["Names"] = { "ProteinEgg", "Protein Egg" } }, ["FastFarm"] = { ["StrengthPet"] = "Swift Samurai", ["RebirthPet"] = "Tribal Overlord", ["StrengthMachine"] = "Industrial Bench", ["RebirthMachine"] = "Industrial Bar Lift", ["MaxPets"] = 0x9, ["RepsPerCycle"] = 0x30, ["RepDelay"] = .008, ["PingSoft"] = 0xB4, ["PingMedium"] = 0x12C, ["PingHigh"] = 0x258, ["PingCritical"] = 0x2BC, ["PingPause"] = 0x370, ["PingResume"] = 0x1C2, ["PingReducerPause"] = 0x35C, ["PingReducerResume"] = 0x1E0, ["PingSampleInterval"] = .12, ["StrengthPingSoft"] = 0x190, ["StrengthPingMedium"] = 0x230, ["StrengthPingHigh"] = 0x2D0, ["StrengthPingCritical"] = 0x348, ["StrengthMinBatch"] = 0x1A, ["StrengthStartBatch"] = 0x2A, ["StrengthMaxBatch"] = 0x2A, ["StrengthBackoffPing"] = 0x2BC, ["StrengthBackoffInterval"] = .35, ["StrengthRampPing"] = 0x1C2, ["StrengthRampInterval"] = .9, ["StrengthDelay"] = .05, ["SizeInvokeInterval"] = .75, ["SizeReleaseDuration"] = 0x5, ["FramesReleaseDuration"] = 0xA, ["RebirthCooldown"] = 0x6, ["RebirthSafetyMargin"] = .03, ["RebirthRepBatch"] = 3, ["RebirthPetCount"] = 0x8, ["RebirthPingRise"] = 0x64, ["RebirthPingPause"] = 0x1C2, ["RebirthWarmupStrength"] = 50000000000, ["RebirthWarmupWindow"] = 3, ["RebirthCycleDelay"] = .2, ["RebirthRetryDelay"] = .02, ["RebirthRequestWindow"] = .75 }, ["ServerHop"] = { ["Interval"] = 0x5A, ["LoaderUrl"] = "https://raw.githubusercontent.com/Young0xHUB/Young0x-HUB/refs/heads/main/loader.lua", ["ServerApi"] = "https://games.roblox.com/v1/games/%d/servers/Public?sortOrder=Desc&limit=100", ["PreferredPlayers"] = 0x12, ["MinimumPlayers"] = 0xC, ["NoTargetsDelay"] = 0xA, ["RetryDelay"] = 0x5, ["HistoryLimit"] = 0x3C }, ["Kills"] = { ["ProtectedPrivateServerIds"] = {} } };
 local lI1llIIII = I11llIIII["Colors"]
 local II1llIIII = Enum["Font"]["FredokaOne"]
 lI1llIIII["fontBold"] = Enum["Font"]["FredokaOne"]
@@ -965,7 +965,7 @@ for llIII1III, IlIII1III in ipairs(lIlllIIII:GetDescendants()) do
 if IlIII1III:IsA("TextLabel") or IlIII1III:IsA("TextButton") then
 local llIII1III = tostring(IlIII1III["Text"] or "");
 local l1III1III = llIII1III:lower();
-local I1III1III = (l1III1III:find("strength", 1, true) or l1III1III:find("strength", 1, true)) and (l1III1III:find("x2", 1, true) or l1III1III:find("2x", 1, true))
+local I1III1III = (l1III1III:find("fuerza", 1, true) or l1III1III:find("strength", 1, true)) and (l1III1III:find("x2", 1, true) or l1III1III:find("2x", 1, true))
 if I1III1III then
 local llIII1III = IlIII1III["Parent"]
 for IlIII1III = 1, 0x4, 1 do
@@ -1144,7 +1144,7 @@ local lI1l1IIII = setmetatable({}, { ["__mode"] = "k" });
 local II1l1IIII = {};
 local llIl1IIII = setmetatable({}, { ["__mode"] = "k" });
 local IlIl1IIII = {};
-local l1Il1IIII = { ["strengthframe"] = true, ["durabilityframe"] = true, ["agilityframe"] = true, ["strengthframe"] = true };
+local l1Il1IIII = { ["strengthframe"] = true, ["durabilityframe"] = true, ["agilityframe"] = true, ["fuerzaframe"] = true };
 local function I1Il1IIII(II1II1III)
 for II1II1III, llIII1III in pairs(II1II1III) do
 if llIII1III["visibleConnection"] then
@@ -2840,7 +2840,7 @@ local lIIII1III = ll11lIIII();
 local IIIII1III, IllllIIII = II1II1III({ "Rebirths", "Rebirth" });
 local I1lllIIII, lIlllIIII = II1II1III({ "Strength", "Strength" })
 if not lIIII1III or not Il11lIIII() or (Il11lIIII())["Health"] <= 0 or not lIlllIIII or not IllllIIII then
-l1III1III["lastError"] = "Esperando personaje y stats"
+l1III1III["lastError"] = "Waiting for character and stats"
 return false
 			end
 if l1III1III["machineCharacter"] and l1III1III["machineCharacter"] ~= lIIII1III then
@@ -2888,7 +2888,7 @@ IIlllIIII["required"] = IlIllIIII
 local l1IllIIII = math["max"](IlIllIIII, I11llIIII["FastFarm"]["RebirthWarmupStrength"])
 while II1llIIII() and l11llIIII() < l1IllIIII do
 if not l1III1III:PackStillConfirmed(I11llIIII["FastFarm"]["StrengthPet"]) then
-l1III1III["lastError"] = "Cambi\243 el pack de strength"
+l1III1III["lastError"] = "Strength pack changed"
 return false
 				end
 if not l1III1III:HasRebirthMachine() then
@@ -2985,7 +2985,7 @@ if #l1III1III["validRebirthSamples"] > 9 then
 table["remove"](l1III1III["validRebirthSamples"], 1)
 					end
 if IIlllIIII["delta"] ~= 0x10 then
-l1III1III["lastError"] = "Rebirth confirmado con incremento distinto de +16: " .. tostring(IIlllIIII["delta"]);
+l1III1III["lastError"] = "Rebirth confirmed with an increase other than +16: " .. tostring(IIlllIIII["delta"]);
 l1III1III:FinishRebirthCycle("unexpected_delta");
 l1III1III:Stop(true)
 return false
@@ -6573,7 +6573,7 @@ local IlIII1III = I1lllllll1(II1II1III, "Estado", llIII1III, lI1llIIII["green"])
 return IlIII1III
 	end
 llIllIIII["registerProfileControl"] = function(II1II1III, llIII1III, IlIII1III, l1III1III)
-if not II1II1III or II1II1III["Name"] == "Perfiles" or type(l1III1III) ~= "table" then
+if not II1II1III or II1II1III["Name"] == "Profiles" or type(l1III1III) ~= "table" then
 return
 			end
 local I1III1III = tostring(II1II1III["Name"]) .. ("|" .. tostring(llIII1III));
@@ -7195,14 +7195,14 @@ local lllllIIII = llIllIIII["pingStatusColor"](IIIII1III);
 local IllllIIII, l1lllIIII = I1lllllll1(llIII1III, "Ping:", tostring(IIIII1III) .. " ms", lllllIIII, true);
 local lIlllIIII = l1lllIIII:FindFirstChild("StatusDot");
 Illllllll1(llIII1III, "🌐 Info Server 🌐");
-I1lllllll1(llIII1III, "Game:", "Muscle Legends", lI1llIIII["cyan"]);
+I1lllllll1(llIII1III, "Juego:", "Muscle Legends", lI1llIIII["cyan"]);
 local IIlllIIII = I1lllllll1(llIII1III, "Server Players:", "0/0", lI1llIIII["white"]);
 Illllllll1(llIII1III, "⚡ Info Young0x Hub ⚡");
 I1lllllll1(llIII1III, "Script:", "Fast Glitch 100%", lI1llIIII["cyan"]);
-I1lllllll1(llIII1III, "Author:", "Young0x", lI1llIIII["white"]);
+I1lllllll1(llIII1III, "Autor:", "Young0x", lI1llIIII["white"]);
 IIlllllll1(llIII1III, "Discord", function(II1II1III)
 local llIII1III = II1II1III["Text"]
-II1II1III["Text"] = l1I1lIIII(I11llIIII["Discord"]) and "Link copied" or llIII1III
+II1II1III["Text"] = l1I1lIIII(I11llIIII["Discord"]) and "Link copiado" or llIII1III
 task["delay"](1.1, function()
 if II1II1III and II1II1III["Parent"] then
 II1II1III["Text"] = llIII1III
@@ -7211,7 +7211,7 @@ II1II1III["Text"] = llIII1III
 		end);
 IIlllllll1(llIII1III, "YouTube", function(II1II1III)
 local llIII1III = II1II1III["Text"]
-II1II1III["Text"] = l1I1lIIII(I11llIIII["YouTube"]) and "Link copied" or llIII1III
+II1II1III["Text"] = l1I1lIIII(I11llIIII["YouTube"]) and "Link copiado" or llIII1III
 task["delay"](1.1, function()
 if II1II1III and II1II1III["Parent"] then
 II1II1III["Text"] = llIII1III
@@ -7429,7 +7429,7 @@ II1II1III:ChangeState(Enum["HumanoidStateType"]["Jumping"])
 			end
 		end));
 Illllllll1(II1II1III, "Estad\237sticas visuales");
-local I1IllIIII = { { ["key"] = "Strength", ["label"] = "Strength (visual)", ["names"] = { "Strength", "Strength" } }, { ["key"] = "Gems", ["label"] = "Gems (visual)", ["names"] = { "Gems", "Gems" } }, { ["key"] = "Rebirths", ["label"] = "Rebirths (visual)", ["names"] = { "Rebirths", "Rebirth" } }, { ["key"] = "Fights", ["label"] = "Fights (visual)", ["names"] = { "Brawls", "Fights", "Fight" } }, { ["key"] = "Kills", ["label"] = "Kills (visual)", ["names"] = { "Kills" } } };
+local I1IllIIII = { { ["key"] = "Strength", ["label"] = "Strength (visual)", ["names"] = { "Strength", "Fuerza" } }, { ["key"] = "Gems", ["label"] = "Gems (visual)", ["names"] = { "Gems", "Gemas" } }, { ["key"] = "Rebirths", ["label"] = "Rebirths (visual)", ["names"] = { "Rebirths", "Rebirth" } }, { ["key"] = "Fights", ["label"] = "Fights (visual)", ["names"] = { "Brawls", "Fights", "Fight" } }, { ["key"] = "Kills", ["label"] = "Kills (visual)", ["names"] = { "Kills" } } };
 local lIIllIIII = {};
 llIllIIII["visualStatRecords"] = setmetatable({}, { ["__mode"] = "k" });
 local IIIllIIII = {};
@@ -7709,7 +7709,7 @@ I1III1III = I1III1III or not II1II1III
 task["wait"](.65)
 					end
 llIllIIII["redeemingAllCodes"] = false
-II1II1III["Text"] = "Done"
+II1II1III["Text"] = "Listo"
 if I1III1III then
 Illl1IIII("Some codes could not be redeemed.")
 					end
@@ -7770,7 +7770,7 @@ local lIIII1III = Instance["new"]("TextLabel");
 lIIII1III["Size"] = UDim2["new"](1, -32, 1, -8);
 lIIII1III["Position"] = UDim2["fromOffset"](0x15, 0x4);
 lIIII1III["BackgroundTransparency"] = 1
-lIIII1III["Text"] = "It was nice while it lasted, RIP pets bug 2019 - 2026 🥀.";
+lIIII1III["Text"] = "Fue lindo mientras dur\243, Rip pets bug 2019 - 2026 🥀.";
 lIIII1III["TextColor3"] = Color3["fromRGB"](0xE1, 0xD7, 0xDC);
 lIIII1III["Font"] = lI1llIIII["fontBold"]
 lIIII1III["TextSize"] = 0xC
@@ -7964,7 +7964,7 @@ IlIII1III["Button"]["Size"] = UDim2["new"](1, 0, 0, 0x1E);
 lll1lIIII["RebirthToggle"] = IlIII1III
 Ill1lIIII(IlIII1III["Button"]["Activated"]:Connect(function()
 if IlIII1III:IsLocked() then
-Illl1IIII("Fast Rebirth requiere pack de strength, ocho Tribal Overlord y ocho slots disponibles")
+Illl1IIII("Fast Rebirth requires a strength pack, eight Tribal Overlords, and eight available slots")
 				end
 			end))
 l1III1III = ll1llllll1(II1II1III, "Fast Strength", function(II1II1III)
@@ -8171,7 +8171,7 @@ local II1II1III = os["clock"]();
 local llIII1III = math["max"](II1II1III - lll1lIIII["sessionStartedAt"], 0);
 local IlIII1III
 if lll1lIIII["pingPaused"] then
-IlIII1III = " Pausado por ping"
+IlIII1III = " Paused due to ping"
 						else
 IlIII1III = lll1lIIII["mode"] == "rebirth" and "" or " Entrenando"
 						end
@@ -8785,7 +8785,7 @@ ll1llllll1(I1III1III, "Egg cada 30 minutos", function(II1II1III)
 llIllIIII["setAutoEgg"](II1II1III, "rebirth")
 return true
 			end)
-I1IllIIII = l11llllll1(I1III1III, "Rebirth Target", "Ejemplo: 18,980", function(II1II1III)
+I1IllIIII = l11llllll1(I1III1III, "Objetivo de renacimientos", "Ejemplo: 18,980", function(II1II1III)
 local llIII1III = lIlllIIII(II1II1III)
 if llIII1III and llIII1III > 0 then
 llIllIIII["rebirth"]["target"] = llIII1III
@@ -8856,10 +8856,10 @@ task["wait"](.03)
 				end)
 return true
 			end
-lIIllIIII = ll1llllll1(I1III1III, "Renacer hasta el objetivo", function(II1II1III)
+lIIllIIII = ll1llllll1(I1III1III, "Rebirth until target", function(II1II1III)
 return I1lIlIIII("target", II1II1III)
 				end)
-IIIllIIII = ll1llllll1(I1III1III, "Rebirths infinitos", function(II1II1III)
+IIIllIIII = ll1llllll1(I1III1III, "Renacimientos infinitos", function(II1II1III)
 return I1lIlIIII("infinite", II1II1III)
 				end);
 lIl1lIIII("rebirthCounter", function()
@@ -8968,7 +8968,7 @@ IllllIIII["Text"] = II1II1III
 if llIII1III then
 task["delay"](llIII1III, function()
 if l1III1III == lIlllIIII and (not llIllIIII["rebirth"]["ultimateRunning"] and (IllllIIII and IllllIIII["Parent"])) then
-IllllIIII["Text"] = IlIII1III or "Esperando selecci\243n"
+IllllIIII["Text"] = IlIII1III or "Waiting for selection"
 						end
 					end)
 				end
@@ -9031,7 +9031,7 @@ if IIIII1III then
 I1IllIIII()
 if not llIllIIII["rebirth"]["ultimateRunning"] then
 local II1II1III = II1llIIII();
-IIlllIIII(II1II1III and "Seleccionado: " .. II1II1III["name"] or "Esperando selecci\243n", 0x5, "Esperando compra")
+IIlllIIII(II1II1III and "Seleccionado: " .. II1II1III["name"] or "Waiting for selection", 0x5, "Waiting for purchase")
 						end
 					end
 				end, function(llIII1III)
@@ -9040,33 +9040,33 @@ local l1III1III = math["max"](0, II1II1III["AbsoluteCanvasSize"]["Y"] - II1II1II
 local I1III1III = ((llIII1III["AbsolutePosition"]["Y"] - II1II1III["AbsolutePosition"]["Y"]) + II1II1III["CanvasPosition"]["Y"]) - 3
 II1II1III["CanvasPosition"] = Vector2["new"](0, math["clamp"](I1III1III, 0, l1III1III))
 				end)
-IIIII1III = Il1llllll1(II1II1III, "Cantidad a comprar", { 1, 2, 3 }, function(II1II1III)
+IIIII1III = Il1llllll1(II1II1III, "Amount to buy", { 1, 2, 3 }, function(II1II1III)
 if l1IllIIII then
 return
 					end
 if not llIllIIII["rebirth"]["ultimateRunning"] then
 local llIII1III = type(II1II1III) == "table" and II1II1III["amount"] or tonumber(II1II1III)
 if llIII1III and llIII1III > 0 then
-IIlllIIII("Cantidad seleccionada: " .. II11lIIII(llIII1III), 0x5, "Esperando compra")
+IIlllIIII("Cantidad seleccionada: " .. II11lIIII(llIII1III), 0x5, "Waiting for purchase")
 						end
 					end
 				end)
 lllllIIII = I1lllllll1(II1II1III, "Nivel seleccionado", "0 / 0", lI1llIIII["cyan"])
-IllllIIII = lIlllllll1(II1II1III, "Esperando selecci\243n");
+IllllIIII = lIlllllll1(II1II1III, "Waiting for selection");
 I1IllIIII();
-IIlllllll1(II1II1III, "Comprar Ultimate", function(II1II1III)
+IIlllllll1(II1II1III, "Buy Ultimate", function(II1II1III)
 if llIllIIII["rebirth"]["ultimateRunning"] then
 llIllIIII["rebirth"]["ultimateRunning"] = false
 I1l1lIIII("ultimateBuyer");
-II1II1III["Text"] = "Comprar Ultimate";
-IIlllIIII("Compra cancelada", 0x7, "Esperando selecci\243n")
+II1II1III["Text"] = "Buy Ultimate";
+IIlllIIII("Compra cancelada", 0x7, "Waiting for selection")
 return
 				end
 local IlIII1III = II1llIIII();
 local l1III1III = IIIII1III:Get();
 local I1III1III = type(l1III1III) == "table" and l1III1III["amount"] or tonumber(l1III1III)
 if not IlIII1III or not I1III1III or I1III1III <= 0 then
-IIlllIIII("Ultimate al m\225ximo", 7, "Esperando selecci\243n")
+IIlllIIII("Ultimate al m\225ximo", 7, "Waiting for selection")
 return
 				end
 I1III1III = math["min"](I1III1III, math["max"](0, I11llIIII(IlIII1III) - ll1llIIII(IlIII1III)));
@@ -9113,11 +9113,11 @@ task["wait"](.8)
 					end
 llIllIIII["rebirth"]["ultimateRunning"] = false
 if II1II1III and II1II1III["Parent"] then
-II1II1III["Text"] = "Comprar Ultimate"
+II1II1III["Text"] = "Buy Ultimate"
 					end
 I1IllIIII();
 local IIIII1III = lIIII1III or l1III1III > 0 and "Compra completada: " .. l1III1III or "Sin cambios";
-IIlllIIII(IIIII1III, 0x7, "Esperando selecci\243n")
+IIlllIIII(IIIII1III, 0x7, "Waiting for selection")
 				end)
 			end, lI1llIIII["row"], lI1llIIII["rowHover"]);
 lIl1lIIII("ultimateCounter", function()
@@ -9205,10 +9205,10 @@ l11llIIII(IllllIIII)
 					end
 return llIllIIII["setKarmaKill"]("good", II1II1III)
 				end);
-local I11llIIII = Il1llllll1(II1II1III, "Select Player", II1llllll1(), function(II1II1III)
+local I11llIIII = Il1llllll1(II1II1III, "Select player", II1llllll1(), function(II1II1III)
 llIllIIII["kill"]["target"] = type(II1II1III) == "table" and II1II1III["name"] or II1II1III
 				end, Il1llIIII)
-l1lllIIII = ll1llllll1(II1II1III, "Kill Player", function(II1II1III)
+l1lllIIII = ll1llllll1(II1II1III, "Kill player", function(II1II1III)
 if II1II1III then
 l11llIIII(l1lllIIII)
 if IIlllIIII and IIlllIIII:Get() then
@@ -9514,13 +9514,13 @@ I111lIIII(II1II1III)
 				end
 			end
 local llI1lIIII = false
-local IlI1lIIII = Il1llllll1(I1III1III, "Select Player", II1llllll1(), function(II1II1III)
+local IlI1lIIII = Il1llllll1(I1III1III, "Select player", II1llllll1(), function(II1II1III)
 local llIII1III = type(II1II1III) == "table" and II1II1III["name"] or II1II1III
 if not llI1lIIII and (llIllIIII["trade"]["busy"] and (llIllIIII["trade"]["activePlayer"] and llIII1III ~= llIllIIII["trade"]["activePlayer"])) then
 lI11lIIII("Cancelled: player changed")
 					end
 				end, lIIII1III);
-local l1I1lIIII = Il1llllll1(I1III1III, "Select Pet", IllllIIII(), function(II1II1III)
+local l1I1lIIII = Il1llllll1(I1III1III, "Select pet", IllllIIII(), function(II1II1III)
 local llIII1III = type(II1II1III) == "table" and II1II1III["name"] or II1II1III
 if not llI1lIIII and (llIllIIII["trade"]["busy"] and (llIllIIII["trade"]["activePet"] and llIII1III ~= llIllIIII["trade"]["activePet"])) then
 lI11lIIII("Cancelled: pet changed")
@@ -9550,7 +9550,7 @@ l1III1III = math["max"](l1III1III, (I1III1III + II1II1III) + .03)
 if I1III1III >= l1III1III then
 IIl1lIIII(II1II1III, "sendTradeRequest", llIII1III)
 l1III1III = I1III1III + .5
-I111lIIII("Fast Trade activo \183 esperando aceptaci\243n")
+I111lIIII("Fast Trade active \183 waiting for acceptance")
 					end
 task["wait"](.05)
 				end
@@ -9558,11 +9558,11 @@ return nil
 			end
 ll11lIIII = IIlllllll1(I1III1III, "Iniciar Fast Trade", function(llIII1III)
 if llIllIIII["trade"]["busy"] then
-lI11lIIII("Cancelado por el usuario")
+lI11lIIII("Cancelled by user")
 return
 					end
 if II1llIIII() then
-I111lIIII("Cerr\225 el trade actual antes de iniciar")
+I111lIIII("Close the current trade before starting")
 return
 					end
 local IlIII1III = lII1lIIII(IlI1lIIII:Get());
@@ -9653,7 +9653,7 @@ lI11lIIII("The player left the server")
 return
 								end
 if not Il1llIIII then
-I111lIIII("Trade cerrado; reintentando el mismo lote...");
+I111lIIII("Trade closed; retrying the same batch...");
 task["wait"](.8)
 								else
 I111lIIII("Aceptando y verificando entrega...");
@@ -9673,7 +9673,7 @@ task["wait"](.2)
 										end
 if I1III1III > 0 then
 llIllIIII["trade"]["delivered"] = llIllIIII["trade"]["delivered"] + I1III1III
-I111lIIII("Fast Trade activo \183 " .. (II11lIIII(llIllIIII["trade"]["delivered"]) .. " pets delivered"), llIllIIII["trade"]["delivered"], IllllIIII)
+I111lIIII("Fast Trade activo \183 " .. (II11lIIII(llIllIIII["trade"]["delivered"]) .. " pets entregadas"), llIllIIII["trade"]["delivered"], IllllIIII)
 										else
 I111lIIII("Delivery not confirmed; retrying...")
 										end
@@ -9743,7 +9743,7 @@ Illllllll1(IlIII1III, "Regalos");
 local l1III1III = I1lllllll1(IlIII1III, "Eggs", "0", lI1llIIII["cyan"]);
 local I1III1III = I1lllllll1(IlIII1III, "Tropical Shakes", "0", lI1llIIII["cyan"]);
 Illllllll1(IlIII1III, "Enviar Regalos");
-local lIIII1III = Il1llllll1(IlIII1III, "Player", II1llllll1(), function()
+local lIIII1III = Il1llllll1(IlIII1III, "Jugador", II1llllll1(), function()
 
 				end);
 llIllIIII["giftTargetSelector"] = lIIII1III
@@ -10003,7 +10003,7 @@ local I1lllIIII = llIIIIIII["Pet Shop"]
 local function lIlllIIII(II1II1III, llIII1III)
 local IlIII1III = type(II1II1III) == "table" and II1II1III["item"]
 if not IlIII1III or not IlIII1III["Parent"] then
-llIII1III["Text"] = "Esperando tienda real"
+llIII1III["Text"] = "Waiting for real shop"
 return
 				end
 local l1III1III = IlIII1III:GetAttribute("Price");
@@ -10012,7 +10012,7 @@ llIII1III["Text"] = II11lIIII(l1III1III) .. (" " .. tostring(I1III1III or "-"))
 			end
 Illllllll1(I1lllIIII, "🐾 Pets 🐾");
 local IIlllIIII
-local ll1llIIII = Il1llllll1(I1lllIIII, "Select Pet", IllllIIII, function(II1II1III)
+local ll1llIIII = Il1llllll1(I1lllIIII, "Seleccionar Pet", IllllIIII, function(II1II1III)
 if IIlllIIII then
 lIlllIIII(II1II1III, IIlllIIII)
 					end
@@ -10066,10 +10066,10 @@ lIlllIIII(II1II1III, l11llIIII)
 llIllIIII["petShopAuraSelector"] = II1llIIII
 l11llIIII = I1lllllll1(I1lllIIII, "Precio:", "-", lI1llIIII["yellow"]);
 lIlllIIII(II1llIIII:Get(), l11llIIII);
-IIlllllll1(I1lllIIII, "🌌 Comprar Aura 🌌", function()
+IIlllllll1(I1lllIIII, "🌌 Buy Aura 🌌", function()
 Il1llIIII(II1llIIII:Get())
 			end);
-ll1llllll1(I1lllIIII, "🔁 Auto Comprar Aura 🔁", function(II1II1III)
+ll1llllll1(I1lllIIII, "🔁 Auto Buy Aura 🔁", function(II1II1III)
 llIllIIII["autoAura"] = II1II1III
 if not II1II1III then
 I1l1lIIII("autoAura")
@@ -10114,7 +10114,7 @@ task["wait"](1)
 		end
 lI1llllll1()
 lI1llllll1 = function()
-local II1II1III = llIIIIIII["Inventario"]
+local II1II1III = llIIIIIII["Inventory"]
 local IlIII1III = { ["groups"] = {}, ["options"] = {}, ["selectedName"] = nil, ["autoEvolve"] = false };
 llIllIIII["Inventory"] = IlIII1III
 local l1III1III = llIII1III:FindFirstChild("rEvents");
@@ -10251,10 +10251,10 @@ II1II1III:Refresh()
 return true
 			end
 II1II1III:SetAttribute("TightCanvas", true);
-Illllllll1(II1II1III, "Inventario")
+Illllllll1(II1II1III, "Inventory")
 lIIII1III = Il1llllll1(II1II1III, "Pet", {}, function(II1II1III)
 IlIII1III:UpdateInfo(II1II1III)
-				end, nil, "No pets");
+				end, nil, "Sin pets");
 IlIII1III["Selector"] = lIIII1III
 IIIII1III, IllllIIII, lIlllIIII = I1lllllll1(II1II1III, "Evolucionadas:", "0", lI1llIIII["cyan"], false, true)
 lllllIIII, l1lllIIII, IIlllIIII = I1lllllll1(II1II1III, "Not evolved:", "0", lI1llIIII["white"], false, true)
@@ -10330,7 +10330,7 @@ I1l1lIIII("inventorySlowRefresh")
 		end
 lI1llllll1()
 lI1llllll1 = function()
-local II1II1III = llIIIIIII["Perfiles"]
+local II1II1III = llIIIIIII["Profiles"]
 local llIII1III = { ["Root"] = "Young0xHub/FG100/profiles", ["Folder"] = "Young0xHub/FG100/profiles/" .. tostring(I1lllIIII["UserId"]), ["selected"] = nil, ["deleteName"] = nil, ["deleteUntil"] = 0 };
 llIllIIII["Profiles"] = llIII1III
 local IlIII1III
@@ -10575,11 +10575,11 @@ function llIII1III.CancelDeleteConfirmation(II1II1III)
 II1II1III["deleteName"] = nil
 II1II1III["deleteUntil"] = 0
 if lIIII1III then
-lIIII1III["Text"] = "Eliminar perfil";
+lIIII1III["Text"] = "Delete profile";
 lIIII1III["BackgroundColor3"] = lI1llIIII["row"]
 				end
 			end
-Illllllll1(II1II1III, "Mis perfiles")
+Illllllll1(II1II1III, "My profiles")
 IlIII1III = Il1llllll1(II1II1III, "Perfil", {}, function(II1II1III)
 if llIII1III["selected"] ~= II1II1III then
 llIII1III:CancelDeleteConfirmation()
@@ -10594,7 +10594,7 @@ return
 					end
 llIII1III:Load(llIII1III["selected"])
 				end);
-Illllllll1(II1II1III, "Guardar");
+Illllllll1(II1II1III, "Save");
 llIllIIII["hideProfileCreate"] = function()
 l1III1III["Parent"]["Visible"] = false
 llIllIIII["profileCreateSaveButton"]["Visible"] = false
@@ -10612,16 +10612,16 @@ l1III1III:CaptureFocus()
 l1III1III = l11llllll1(II1II1III, "Nombre", "Mi perfil", function()
 
 				end);
-llIllIIII["profileCreateSaveButton"] = IIlllllll1(II1II1III, "Guardar", function()
+llIllIIII["profileCreateSaveButton"] = IIlllllll1(II1II1III, "Save", function()
 local II1II1III, I1III1III, lIIII1III, IIIII1III = llIII1III:Write(l1III1III["Text"], false)
 if II1II1III then
 llIII1III:Refresh();
 IlIII1III:SetValue(I1III1III);
 llIllIIII["hideProfileCreate"]()
 					elseif lIIII1III == "duplicate" then
-IIlllIIII(llIllIIII["profileCreateSaveButton"], "Ya existe: " .. tostring(IIIII1III), nil, "Guardar")
+IIlllIIII(llIllIIII["profileCreateSaveButton"], "Ya existe: " .. tostring(IIIII1III), nil, "Save")
 					elseif lIIII1III == "empty" then
-IIlllIIII(llIllIIII["profileCreateSaveButton"], "Ingres\225 un nombre", nil, "Guardar")
+IIlllIIII(llIllIIII["profileCreateSaveButton"], "Ingres\225 un nombre", nil, "Save")
 					end
 				end);
 llIllIIII["profileCreateCancelButton"] = IIlllllll1(II1II1III, "Cancelar", function()
@@ -10679,7 +10679,7 @@ llIllIIII["hideProfileRename"]()
 I1III1III["Parent"]["Visible"] = false
 llIllIIII["profileRenameConfirmButton"]["Visible"] = false
 llIllIIII["profileRenameCancelButton"]["Visible"] = false
-lIIII1III = IIlllllll1(II1II1III, "Eliminar perfil", function(II1II1III)
+lIIII1III = IIlllllll1(II1II1III, "Delete profile", function(II1II1III)
 if not llIII1III["selected"] then
 return
 					end
@@ -10692,7 +10692,7 @@ return
 if llIII1III["deleteName"] ~= l1III1III or time() > llIII1III["deleteUntil"] then
 llIII1III["deleteName"] = l1III1III
 llIII1III["deleteUntil"] = time() + 0x6
-II1II1III["Text"] = "Confirmar eliminar " .. l1III1III
+II1II1III["Text"] = "Confirm delete " .. l1III1III
 II1II1III["BackgroundColor3"] = lI1llIIII["red"]
 task["delay"](6.1, function()
 if II1II1III["Parent"] and (llIII1III["deleteName"] == l1III1III and time() > llIII1III["deleteUntil"]) then
@@ -10850,7 +10850,7 @@ local lIIllIIII = Instance["new"]("TextLabel");
 lIIllIIII["Size"] = UDim2["new"](1, -22, 0, 0x12);
 lIIllIIII["Position"] = UDim2["fromOffset"](0xB, 3);
 lIIllIIII["BackgroundTransparency"] = 1
-lIIllIIII["Text"] = "Pets in Fuse Machine";
+lIIllIIII["Text"] = "Pets en Fuse Machine";
 lIIllIIII["TextColor3"] = lI1llIIII["cyan"]
 lIIllIIII["Font"] = lI1llIIII["fontBold"]
 lIIllIIII["TextSize"] = 0xA
@@ -10995,7 +10995,7 @@ ll1llIIII = function()
 local II1II1III = IIlllIIII or IlIII1III[1]
 local llIII1III = IllllIIII(II1II1III);
 local l1III1III = l1lllIIII(II1II1III, llIII1III);
-l1IllIIII["Text"] = lIlllIIII(l1III1III) .. " por intento";
+l1IllIIII["Text"] = lIlllIIII(l1III1III) .. " per attempt";
 l1IllIIII["TextColor3"] = l1III1III >= 0x1E and lI1llIIII["green"] or l1III1III >= 10 and lI1llIIII["yellow"] or lI1llIIII["orange"]
 local I1III1III = {};
 local lIIII1III = {}
@@ -11058,7 +11058,7 @@ llIII1III = llIII1III or I1III1III and tonumber(I1III1III["FUSE_DURATION"])
 return math["max"](llIII1III or 0, type(II1II1III) == "table" and tonumber(II1II1III["RemainingTime"]) or 0)
 			end
 local function llIIlIIII(II1II1III)
-local llIII1III = { ["empty"] = "A pet is missing.", ["notOwned"] = "A pet is no longer available.", ["duplicate"] = "The 4 pets must be different.", ["equipped"] = "Unequip the pets first.", ["tradeLocked"] = "A pet is being traded.", ["robuxPet"] = "That pet cannot be fused.", ["protected"] = "Remove the pet's protection.", ["blocked"] = "A pet is locked.", ["unconfigured"] = "Combination unavailable.", ["evolvedNotAllowed"] = "Evolved pets are not accepted.", ["incompleteSlots"] = "Place the 4 pets.", ["ineligibleInput"] = "A pet is invalid.", ["rewardsUnavailable"] = "No results available.", ["cooldown"] = "Esper\225 un momento.", ["rateLimited"] = "Esper\225 un momento.", ["busy"] = "Fuse Machine ocupada.", ["tooFar"] = "Acercate a la Fuse Machine.", ["notReady"] = "The pet is not ready yet.", ["grantFailed"] = "Could not deliver the pet.", ["petsFull"] = "Pet inventory is full.", ["invalidRequest"] = "Solicitud rechazada.", ["noRemote"] = "Fuse Machine unavailable.", ["fuseActive"] = "Ya hay una fusi\243n activa.", ["fuseNotReady"] = "The pet is not ready yet.", ["noFuse"] = "There is no pet to claim.", ["disabled"] = "Fuse Machine desactivada." }
+local llIII1III = { ["empty"] = "A pet is missing.", ["notOwned"] = "A pet is no longer available.", ["duplicate"] = "The 4 pets must be different.", ["equipped"] = "Unequip the pets first.", ["tradeLocked"] = "A pet is being traded.", ["robuxPet"] = "That pet cannot be fused.", ["protected"] = "Remove the pet's protection.", ["blocked"] = "A pet is locked.", ["unconfigured"] = "Combination unavailable.", ["evolvedNotAllowed"] = "Evolved pets are not accepted.", ["incompleteSlots"] = "Place the 4 pets.", ["ineligibleInput"] = "A pet is invalid.", ["rewardsUnavailable"] = "No results available.", ["cooldown"] = "Esper\225 un momento.", ["rateLimited"] = "Esper\225 un momento.", ["busy"] = "Fuse Machine ocupada.", ["tooFar"] = "Move closer to the Fuse Machine.", ["notReady"] = "The pet is not ready yet", ["grantFailed"] = "Could not deliver the pet.", ["petsFull"] = "Inventory de pets lleno.", ["invalidRequest"] = "Solicitud rechazada.", ["noRemote"] = "Fuse Machine unavailable.", ["fuseActive"] = "A fusion is already active.", ["fuseNotReady"] = "The pet is not ready yet", ["noFuse"] = "There is no pet to claim.", ["disabled"] = "Fuse Machine desactivada." }
 return llIII1III[tostring(II1II1III or "")] or "Could not complete."
 			end
 local function IlIIlIIII(II1II1III, llIII1III, IlIII1III, l1III1III)
@@ -11079,10 +11079,10 @@ lIIII1III["BackgroundTransparency"] = I1III1III and .08 or .72
 			end
 local function l1IIlIIII()
 local II1II1III = I1I1lIIII == "fusing" or I1I1lIIII == "ready";
-IlIIlIIII(l1lIlIIII, III1lIIII and "Procesando..." or "Place pets", not III1lIIII and not II1II1III, lI1llIIII["cyan"]);
-local llIII1III = lllIlIIII > 0 and "Remove pets \183 " .. (II11lIIII(lllIlIIII) .. "/4") or "Remove pets";
+IlIIlIIII(l1lIlIIII, III1lIIII and "Procesando..." or "Poner pets", not III1lIIII and not II1II1III, lI1llIIII["cyan"]);
+local llIII1III = lllIlIIII > 0 and "Quitar pets \183 " .. (II11lIIII(lllIlIIII) .. "/4") or "Quitar pets";
 IlIIlIIII(I1lIlIIII, llIII1III, not III1lIIII and (not II1II1III and lllIlIIII > 0), lI1llIIII["blue"]);
-IlIIlIIII(IIlIlIIII, "Actualizar inventario", not III1lIIII, lI1llIIII["cyan"])
+IlIIlIIII(IIlIlIIII, "Refresh inventory", not III1lIIII, lI1llIIII["cyan"])
 if III1lIIII then
 IlIIlIIII(lIlIlIIII, "Procesando...", false, lI1llIIII["cyan"])
 				elseif I1I1lIIII == "fusing" then
@@ -11232,7 +11232,7 @@ local II1II1III = IIIIlIIII()
 lllIlIIII = II1II1III
 if l11llIIII > 0 and l11llIIII <= os["clock"]() then
 l11llIIII = 0
-I1IIlIIII(II1II1III == 0x4 and "prepared" or "idle", II1II1III == 0x4 and "4/4 pets placed." or nil)
+I1IIlIIII(II1II1III == 0x4 and "prepared" or "idle", II1II1III == 0x4 and "4/4 pets colocadas." or nil)
 						elseif IllIlIIII > 0 and (IllIlIIII <= os["clock"]() and (I1I1lIIII == "error" or I1I1lIIII == "claimed")) then
 IllIlIIII = 0
 I1IIlIIII(II1II1III == 0x4 and "prepared" or "idle")
@@ -11333,7 +11333,7 @@ I1III1III[#I1III1III + 1] = IlIII1III
 local lllllIIII = type(IIIII1III["GetSlots"]) == "function" and IIIII1III:GetSlots() or {}
 III1lIIII = true
 l11llIIII = 0
-I1IIlIIII("loading", "Placing four different pets...");
+I1IIlIIII("loading", "Colocando cuatro pets distintas...");
 local IllllIIII = pcall(IIIII1III["ClearSlots"], IIIII1III)
 if not IllllIIII then
 III1lIIII = false
@@ -11432,7 +11432,7 @@ return
 				end
 l11llIIII = 0
 III1lIIII = true
-I1IIlIIII("loading", "Iniciando la fusi\243n...");
+I1IIlIIII("loading", "Starting the fusion...");
 local llIII1III, IlIII1III = pcall(IIIII1III["Craft"], IIIII1III)
 III1lIIII = false
 if not llIII1III or type(IlIII1III) ~= "table" then
@@ -11453,13 +11453,13 @@ ll1llIIII()
 I1IIlIIII("error", llIIlIIII(IlIII1III["Reason"]))
 				end
 			end
-l1lIlIIII = Illl1IIII("Place pets", l1ll1IIII);
+l1lIlIIII = Illl1IIII("Poner pets", l1ll1IIII);
 l1lIlIIII["Name"] = "FusePrepareRecipeButton"
-I1lIlIIII = Illl1IIII("Remove pets", I1ll1IIII);
+I1lIlIIII = Illl1IIII("Quitar pets", I1ll1IIII);
 I1lIlIIII["Name"] = "FuseRemovePetsButton"
 lIlIlIIII = Illl1IIII("Fusionar", IIll1IIII);
 lIlIlIIII["Name"] = "FuseActionButton"
-IIlIlIIII = Illl1IIII("Actualizar inventario", ll1llIIII);
+IIlIlIIII = Illl1IIII("Refresh inventory", ll1llIIII);
 IIlIlIIII["Name"] = "FuseRefreshInventoryButton"
 ll1IlIIII = Instance["new"]("Frame");
 ll1IlIIII["Name"] = "FuseFeedbackRow";
@@ -11639,7 +11639,7 @@ l1lllIIII["TextXAlignment"] = Enum["TextXAlignment"]["Left"]
 l1lllIIII["TextTruncate"] = Enum["TextTruncate"]["AtEnd"]
 l1lllIIII["ZIndex"] = 0xD
 l1lllIIII["Parent"] = IlIII1III
-local IIlllIIII = { { ["icon"] = "💪", ["label"] = "Strength", ["names"] = { "Strength", "Strength" } }, { ["icon"] = "🛡️", ["label"] = "Durability", ["names"] = { "Durability", "Durability" } }, { ["icon"] = "⚡", ["label"] = "Agility", ["names"] = { "Agility", "Agility" } }, { ["icon"] = "🔄", ["label"] = "Rebirths", ["names"] = { "Rebirths", "Rebirths" } }, { ["icon"] = "⚔️", ["label"] = "Kills", ["names"] = { "Kills" } }, { ["icon"] = "🥊", ["label"] = "Fights", ["names"] = { "Brawls", "Fights", "Fight" } }, { ["icon"] = "💎", ["label"] = "Gems", ["names"] = { "Gems", "Gems" } }, { ["icon"] = "😇", ["label"] = "Good Karma", ["names"] = { "goodKarma", "Good Karma" } }, { ["icon"] = "😈", ["label"] = "Evil Karma", ["names"] = { "evilKarma", "Evil Karma" } }, { ["tokenIcon"] = true, ["exact"] = true, ["label"] = "Tokens", ["names"] = { "RebirthTokens", "Tokens" } } };
+local IIlllIIII = { { ["icon"] = "💪", ["label"] = "Fuerza", ["names"] = { "Strength", "Fuerza" } }, { ["icon"] = "🛡️", ["label"] = "Durabilidad", ["names"] = { "Durability", "Durabilidad" } }, { ["icon"] = "⚡", ["label"] = "Agilidad", ["names"] = { "Agility", "Agilidad" } }, { ["icon"] = "🔄", ["label"] = "Rebirths", ["names"] = { "Rebirths", "Renacimientos" } }, { ["icon"] = "⚔️", ["label"] = "Kills", ["names"] = { "Kills" } }, { ["icon"] = "🥊", ["label"] = "Peleas", ["names"] = { "Brawls", "Fights", "Fight" } }, { ["icon"] = "💎", ["label"] = "Gemas", ["names"] = { "Gems", "Gemas" } }, { ["icon"] = "😇", ["label"] = "Good Karma", ["names"] = { "goodKarma", "Good Karma" } }, { ["icon"] = "😈", ["label"] = "Evil Karma", ["names"] = { "evilKarma", "Evil Karma" } }, { ["tokenIcon"] = true, ["exact"] = true, ["label"] = "Tokens", ["names"] = { "RebirthTokens", "Tokens" } } };
 local ll1llIIII = Instance["new"]("Frame");
 ll1llIIII["Size"] = UDim2["new"](1, 0, 0, 0x144);
 ll1llIIII["BackgroundTransparency"] = 1
@@ -12922,7 +12922,7 @@ ll1IlIIII["Position"] = UDim2["fromOffset"](0x6, 2);
 ll1IlIIII["Size"] = UDim2["new"](1, -12, 0, 0x15);
 ll1IlIIII["BackgroundTransparency"] = 1
 ll1IlIIII["Font"] = lI1llIIII["fontBold"]
-ll1IlIIII["Text"] = "Minimap";
+ll1IlIIII["Text"] = "Minimapa";
 ll1IlIIII["TextColor3"] = lI1llIIII["white"]
 ll1IlIIII["TextSize"] = 0xB
 ll1IlIIII["TextTruncate"] = Enum["TextTruncate"]["AtEnd"]
@@ -13219,7 +13219,7 @@ return
 I1lIlIIII["Visible"] = true
 II1IlIIII["Visible"] = I1III1III == true
 IlIIlIIII["Visible"] = I1III1III == true
-ll1IlIIII["Text"] = "Minimap"
+ll1IlIIII["Text"] = "Minimapa"
 if not I1III1III then
 IIIIlIIII()
 return
@@ -13673,7 +13673,7 @@ return llIllIIII["setMiscVisualFlag"]("distance", II1II1III)
 				end), ["durability"] = ll1llllll1(II1II1III, "ESP: Durability", function(II1II1III)
 return llIllIIII["setMiscVisualFlag"]("durability", II1II1III)
 				end) };
-Illllllll1(II1II1III, "🧭 Playeres 🧭");
+Illllllll1(II1II1III, "🧭 Players 🧭");
 llIllIIII["miscPlayerSelector"] = Il1llllll1(II1II1III, "Objetivo", llIllIIII["miscTargetOptions"](), function(II1II1III)
 llIllIIII["miscTarget"] = type(II1II1III) == "table" and II1II1III["name"] or II1II1III
 llIllIIII["spyTarget"] = llIllIIII["miscTarget"]
@@ -13696,10 +13696,10 @@ return llIllIIII["setMiscOrbit"](II1II1III)
 I11llllll1(II1II1III, "Radio de \243rbita", 0xA, 0x18, llIllIIII["miscOrbitRadius"], function(II1II1III)
 llIllIIII["miscOrbitRadius"] = II1II1III
 		end);
-I11llllll1(II1II1III, "Velocidad de \243rbita", 1, 0xF, llIllIIII["miscOrbitSpeed"], function(II1II1III)
+I11llllll1(II1II1III, "Orbit Speed", 1, 0xF, llIllIIII["miscOrbitSpeed"], function(II1II1III)
 llIllIIII["miscOrbitSpeed"] = II1II1III
 		end);
-llIllIIII["spyToggle"] = ll1llllll1(II1II1III, "Spy: Mirar jugador", function(II1II1III)
+llIllIIII["spyToggle"] = ll1llllll1(II1II1III, "Spy: Watch Player", function(II1II1III)
 local llIII1III = llIllIIII["selectedMiscPlayer"]()
 if II1II1III and not llIII1III then
 return false
@@ -13710,20 +13710,20 @@ llIllIIII["spyTarget"] = llIII1III["Name"]
 lll1IIIII(II1II1III)
 return true
 			end);
-ll1llllll1(II1II1III, "Hide Players", function(II1II1III)
+ll1llllll1(II1II1III, "Hide players", function(II1II1III)
 return llIllIIII["setMiscHidePlayers"](II1II1III)
 		end);
-ll1llllll1(II1II1III, "Minimap", function(II1II1III)
+ll1llllll1(II1II1III, "Minimapa", function(II1II1III)
 return llIllIIII["setMiscMinimap"](II1II1III)
 		end);
-Illllllll1(II1II1III, "🌎 Mundo y c\225mara 🌎");
+Illllllll1(II1II1III, "🌎 World & Camera 🌎");
 ll1llllll1(II1II1III, "FullBright", function(II1II1III)
 return llIllIIII["setMiscFullBright"](II1II1III)
 		end);
-ll1llllll1(II1II1III, "Remove Fog", function(II1II1III)
+ll1llllll1(II1II1III, "Remove fog", function(II1II1III)
 return llIllIIII["setMiscNoFog"](II1II1III)
 		end);
-llIllIIII["miscFovToggle"] = ll1llllll1(II1II1III, "Custom FOV", function(II1II1III)
+llIllIIII["miscFovToggle"] = ll1llllll1(II1II1III, "FOV personalizado", function(II1II1III)
 return llIllIIII["setMiscFov"](II1II1III)
 			end);
 I11llllll1(II1II1III, "Campo de visi\243n", 0x32, 0x96, llIllIIII["miscFov"], function(II1II1III)
@@ -13732,7 +13732,7 @@ if llIllIIII["miscFovEnabled"] and workspace["CurrentCamera"] then
 llIllIIII["applyMiscFov"](workspace["CurrentCamera"])
 			end
 		end);
-ll1llllll1(II1II1III, "Extended Zoom", function(II1II1III)
+ll1llllll1(II1II1III, "Zoom extendido", function(II1II1III)
 return llIllIIII["setMiscZoom"](II1II1III)
 		end);
 llIllIIII["miscFreecamToggle"] = ll1llllll1(II1II1III, "Freecam", function(II1II1III)
@@ -13741,14 +13741,14 @@ return llIllIIII["setMiscFreecam"](II1II1III)
 I11llllll1(II1II1III, "Freecam Speed", 0x14, 0xFA, llIllIIII["miscFreecamSpeed"], function(II1II1III)
 llIllIIII["miscFreecamSpeed"] = II1II1III
 		end);
-ll1llllll1(II1II1III, "Hide Game UI", function(II1II1III)
+ll1llllll1(II1II1III, "Hide game UI", function(II1II1III)
 return llIllIIII["setMiscHideGameUi"](II1II1III)
 		end);
 Illllllll1(II1II1III, "🧰 Utilidades 🧰");
 llIllIIII["miscClickTpToggle"] = ll1llllll1(II1II1III, "Click TP", function(II1II1III)
 return llIllIIII["setMiscClickTp"](II1II1III)
 			end);
-llIllIIII["miscHidePetsToggle"] = ll1llllll1(II1II1III, "Ocultar pets", function(II1II1III)
+llIllIIII["miscHidePetsToggle"] = ll1llllll1(II1II1III, "Hide pets", function(II1II1III)
 return llIllIIII["setMiscHidePets"](II1II1III)
 			end);
 llIllIIII["miscFpsUnlockToggle"] = ll1llllll1(II1II1III, "FPS Unlock", function(II1II1III)
@@ -13778,7 +13778,7 @@ IlIII1III["Parent"] = llIII1III
 		elseif I1III1III["KeyboardEnabled"] then
 lIIllllll1 = IIlllllll1(II1II1III, lll1lllll1(), function(II1II1III)
 I1Illllll1 = true
-II1II1III["Text"] = "Eleg\237 una tecla"
+II1II1III["Text"] = "Choose a key"
 				end);
 lIIllllll1["TextXAlignment"] = Enum["TextXAlignment"]["Left"]
 local llIII1III = Instance["new"]("UIPadding");
